@@ -6,6 +6,9 @@ Fast-paced dodging game
 As the title suggests, this is a game where you control a sphere and dodge incoming enemies. I added some interesting enemy physics to compromise for a rather generic theme. I hope you have fun!
 
 ## Instructions
+Play the game here:
+https://relfirm.github.io/games/Dodge
+
 All instructions in game
 
 Additional features:

@@ -87,17 +87,10 @@ window.onload = () => {
   //todo
   console.log("Problems: ");
   console.log("Jerky movement in beginning so try rounding velocity");
-  console.log("Player can die after the ending if a stray enemy hits");
-  console.log("Enemies do not get cleared after player dies")
 
   console.log("Notes: ");
   console.log("All in-game objects are top down");
   console.log("Font width is widened by 30%");
-
-  console.log("What to do next: ");
-  console.log("Stats page and retry / return to menu");
-  console.log("Small animations and revamping designs");
-  console.log("Release!");
 
   music.init();
   timer.tick();
