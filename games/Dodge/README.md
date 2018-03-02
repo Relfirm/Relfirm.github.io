@@ -20,7 +20,9 @@ Additional features:
 All credits in game
 
 Music: **Higher** by Tobu
+
 Font: **Slumber's Weight** by Chequered Ink
+
 Title font: **Molot** by Jovanny Lemonad
 
 All scripting & graphics by me
