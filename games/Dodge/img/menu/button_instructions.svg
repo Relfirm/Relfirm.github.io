@@ -51,7 +51,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="30.150311"
+     inkscape:cx="97.830531"
      inkscape:cy="10.061321"
      inkscape:document-units="px"
      inkscape:current-layer="text4136"
@@ -97,16 +97,17 @@
          rx="30.802767" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.48202515px;line-height:125%;font-family:'slumber\'s weight';-inkscape-font-specification:'slumber\'s weight';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="257.58347"
-         y="757.3053"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.68571472px;line-height:125%;font-family:'slumber\'s weight';-inkscape-font-specification:'slumber\'s weight';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="293.88943"
+         y="680.60278"
          id="text4146"
-         sodipodi:linespacing="125%"><tspan
+         sodipodi:linespacing="125%"
+         transform="scale(0.89871646,1.112698)"><tspan
            sodipodi:role="line"
            id="tspan4148"
-           x="257.58347"
-           y="757.3053"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'slumber\'s weight';-inkscape-font-specification:'slumber\'s weight';fill:#ffffff;fill-opacity:1">Instructions</tspan></text>
+           x="293.88943"
+           y="680.60278"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1">Instructions</tspan></text>
     </g>
   </g>
 </svg>

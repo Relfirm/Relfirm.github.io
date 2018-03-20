@@ -45,24 +45,24 @@ canvas.onmousedown = (e) => {
 
 document.addEventListener("keydown", e => {
   if(menu.running) {
-    switch(e.key) {
-      case "ArrowDown":
-      case "ArrowRight":
+    switch(e.keyCode) {
+      case 40:
+      case 39:
         menu.pointer.index++;
         if(menu.pointer.index === menu.buttons.length) {
           menu.pointer.index = 0;
         }
         break;
 
-      case "ArrowUp":
-      case "ArrowLeft":
+      case 38:
+      case 37:
         menu.pointer.index--;
         if(menu.pointer.index === -1) {
           menu.pointer.index = menu.buttons.length - 1;
         }
         break;
 
-      case " ":
+      case 32:
         switch(menu.scene) {
           case "main":
             menu.scene = menu.buttons[menu.pointer.index];
@@ -78,8 +78,8 @@ document.addEventListener("keydown", e => {
   }
 
   if(game.running) {
-    switch(e.key) {
-      case " ":
+    switch(e.keyCode) {
+      case 32:
         if(game.scene === "stats") {
           game.running = false;
           menu.init(true);

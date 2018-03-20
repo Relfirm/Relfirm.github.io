@@ -86,11 +86,11 @@ img.background_2.src = "img/background/blue.svg";
 window.onload = () => {
   //todo
   console.log("Problems: ");
-  console.log("Jerky movement in beginning so try rounding velocity");
+  console.log("Jerky movement at the beginning so try rounding velocity");
 
   console.log("Notes: ");
   console.log("All in-game objects are top down");
-  console.log("Font width is widened by 30%");
+  console.log("Font width is widened by 5%");
 
   music.init();
   timer.tick();
