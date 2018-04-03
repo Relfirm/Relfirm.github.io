@@ -25,8 +25,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70000002"
-     inkscape:cx="260.08728"
+     inkscape:zoom="0.35000001"
+     inkscape:cx="167.23014"
      inkscape:cy="395.9647"
      inkscape:document-units="px"
      inkscape:current-layer="text4136"
@@ -61,94 +61,287 @@
        transform="scale(1.1401764,0.87705725)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.43896484px;line-height:125%;font-family:'slumber\'s weight';-inkscape-font-specification:'slumber\'s weight';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#5a00a0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="text4136">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:45.93505859px;line-height:125%;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-         x="316.13095"
-         y="435.61566"
-         id="text4146"
-         sodipodi:linespacing="125%"
-         transform="scale(0.89871692,1.1126974)"><tspan
-           sodipodi:role="line"
-           x="316.13095"
-           y="435.61566"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1;"
-           id="tspan4349" /><tspan
-           sodipodi:role="line"
-           x="316.13095"
-           y="493.03448"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1;"
-           id="tspan4192">You ran out of lives!</tspan><tspan
-           sodipodi:role="line"
-           x="316.13095"
-           y="550.45331"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1;"
-           id="tspan4292" /><tspan
-           sodipodi:role="line"
-           x="316.13095"
-           y="607.87213"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1;"
-           id="tspan4294" /><tspan
-           sodipodi:role="line"
-           x="316.13095"
-           y="665.29095"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1;"
-           id="tspan4296" /><tspan
-           sodipodi:role="line"
-           x="316.13095"
-           y="722.70978"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1;"
-           id="tspan4298" /><tspan
-           sodipodi:role="line"
-           x="316.13095"
-           y="780.1286"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1;"
-           id="tspan4300" /><tspan
-           sodipodi:role="line"
-           x="316.13095"
-           y="837.54742"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1;"
-           id="tspan4302" /><tspan
-           sodipodi:role="line"
-           x="316.13095"
-           y="894.96625"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1;"
-           id="tspan4304" /><tspan
-           sodipodi:role="line"
-           x="316.13095"
-           y="952.38507"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1;"
-           id="tspan4194" /><tspan
-           sodipodi:role="line"
-           x="316.13095"
-           y="1009.8039"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1;"
-           id="tspan4196" /><tspan
-           sodipodi:role="line"
-           x="316.13095"
-           y="1067.2227"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1;"
-           id="tspan4353" /><tspan
-           sodipodi:role="line"
-           x="316.13095"
-           y="1124.6416"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1;"
-           id="tspan4355" /><tspan
-           sodipodi:role="line"
-           x="316.13095"
-           y="1182.0603"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1;"
-           id="tspan4357">I hope you've enjoyed this game!</tspan><tspan
-           sodipodi:role="line"
-           x="316.13095"
-           y="1239.4792"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1;"
-           id="tspan4359" /><tspan
-           sodipodi:role="line"
-           x="316.13095"
-           y="1296.8979"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1;"
-           id="tspan4159"> - - - Space to return to menu - - - </tspan></text>
+      <g
+         transform="scale(0.89871692,1.1126974)"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:45.93505859px;line-height:125%;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text4146">
+        <path
+           d="m 331.27068,477.8499 q 0.78502,-1.16632 2.26535,-5.65217 l 3.36439,-10.07072 q 0.26915,-0.85231 1.14389,-1.27847 0.87474,-0.42615 1.81676,-0.17943 0.94203,0.26915 1.41305,1.03174 0.47101,0.78503 0.17943,1.63734 l -3.61111,10.87817 q -1.2336,3.81297 -2.22049,5.45031 -1.63733,2.82608 -4.19427,3.58867 l 0,7.62594 q 0,0.89717 -0.6953,1.52519 -0.69531,0.62801 -1.68219,0.62801 -0.98689,0 -1.6822,-0.62801 -0.6953,-0.62802 -0.6953,-1.52519 l 0,-7.71566 q -2.24292,-0.80745 -3.85783,-3.27466 -1.34575,-2.01863 -2.82608,-6.48205 l -3.34196,-10.07072 q -0.29158,-0.85231 0.17944,-1.63734 0.47101,-0.76259 1.41304,-1.03174 0.94203,-0.24672 1.81677,0.17943 0.85231,0.42616 1.14389,1.27847 l 3.34195,10.07072 q 1.34576,3.9924 2.35507,5.51759 1.05417,1.59248 2.26535,1.59248 1.14389,-0.0224 2.10835,-1.4579 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4182" />
+        <path
+           d="m 350.42524,474.64252 q 3.85783,0 6.54933,2.71393 2.60179,2.6018 2.60179,6.19047 l 0,0.58316 q 0,3.58868 -2.60179,6.19047 -2.6915,2.71393 -6.54933,2.71393 l -0.56073,0 q -3.85783,0 -6.54934,-2.71393 -2.60179,-2.60179 -2.60179,-6.19047 l 0,-0.58316 q 0,-3.58867 2.60179,-6.19047 2.69151,-2.71393 6.54934,-2.71393 l 0.56073,0 z m -0.56073,4.30641 q -1.72705,0 -3.00552,1.25604 -1.36818,1.39061 -1.36818,3.34195 l 0,0.58316 q 0,1.95134 1.36818,3.34196 1.27847,1.25603 3.00552,1.25603 l 0.56073,0 q 1.72705,0 3.00552,-1.25603 1.36818,-1.39062 1.36818,-3.34196 l 0,-0.58316 q 0,-1.95134 -1.36818,-3.34195 -1.27847,-1.25604 -3.00552,-1.25604 l -0.56073,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4184" />
+        <path
+           d="m 377.0263,476.79572 q 0,-0.89717 0.69531,-1.50275 0.69531,-0.62802 1.68219,-0.62802 0.96446,0 1.65976,0.62802 0.69531,0.60558 0.69531,1.50275 l 0,7.33436 q 0,3.61111 -2.57936,6.19047 -2.69151,2.71393 -6.54934,2.71393 l -0.56073,0 q -3.85782,0 -6.54933,-2.71393 -2.60179,-2.60179 -2.60179,-6.19047 l 0,-7.33436 q 0,-0.89717 0.69531,-1.52518 0.6953,-0.62802 1.68219,-0.62802 0.98688,0 1.70462,0.62802 0.6953,0.62801 0.6953,1.52518 l 0,7.33436 q 0,1.95134 1.36819,3.34196 1.27846,1.25603 3.00551,1.25603 l 0.56073,0 q 1.72706,0 3.00552,-1.25603 1.39061,-1.39062 1.39061,-3.34196 l 0,-7.33436 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4186" />
+        <path
+           d="m 406.52074,474.64252 q 0.98688,0 1.68219,0.62802 0.69531,0.62801 0.69531,1.52518 0,0.89717 -0.69531,1.52519 -0.69531,0.62802 -1.68219,0.62802 -1.72705,0 -3.00552,1.25604 -1.36818,1.39061 -1.36818,3.34195 l 0,7.33436 q 0,0.89717 -0.69531,1.52519 -0.71773,0.62801 -1.70462,0.62801 -0.98688,0 -1.68219,-0.62801 -0.69531,-0.62802 -0.69531,-1.52519 l 0,-7.33436 q 0,-3.58867 2.60179,-6.19047 2.69151,-2.71393 6.54934,-2.71393 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4188" />
+        <path
+           d="m 429.26397,490.88128 q 0,0.89717 -0.6953,1.52519 -0.69531,0.60559 -1.65977,0.60559 -0.98688,0 -1.68219,-0.60559 -0.6953,-0.62802 -0.6953,-1.52519 l 0,-7.33436 q 0,-1.95134 -1.39062,-3.34195 -1.27846,-1.25604 -3.00551,-1.25604 l -0.56073,0 q -1.72705,0 -3.00552,1.25604 -1.36818,1.39061 -1.36818,3.34195 l 0,0.58316 q 0,1.95134 1.36818,3.34196 1.27847,1.25603 3.00552,1.25603 l 0.56073,0 q 0.98688,0 1.68219,0.62802 0.6953,0.62802 0.6953,1.52519 0,0.89717 -0.6953,1.52519 -0.69531,0.62801 -1.68219,0.62801 l -0.56073,0 q -3.85783,0 -6.54934,-2.71393 -2.60179,-2.60179 -2.60179,-6.19047 l 0,-0.58316 q 0,-3.58867 2.60179,-6.19047 2.69151,-2.71393 6.54934,-2.71393 l 0.56073,0 q 3.85782,0 6.54933,2.71393 2.57936,2.57937 2.57936,6.19047 l 0,7.33436 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4190" />
+        <path
+           d="m 452.18664,490.88128 q 0,0.89717 -0.6953,1.52519 -0.69531,0.60559 -1.65977,0.60559 -0.98688,0 -1.68219,-0.60559 -0.6953,-0.62802 -0.6953,-1.52519 l 0,-7.33436 q 0,-1.95134 -1.39062,-3.34195 -1.27846,-1.25604 -3.00551,-1.25604 l -0.56073,0 q -1.72705,0 -3.00552,1.25604 -1.36818,1.39061 -1.36818,3.34195 l 0,7.33436 q 0,0.89717 -0.69531,1.52519 -0.71773,0.62801 -1.70462,0.62801 -0.98689,0 -1.68219,-0.62801 -0.69531,-0.62802 -0.69531,-1.52519 l 0,-7.33436 q 0,-3.58867 2.60179,-6.19047 2.69151,-2.71393 6.54934,-2.71393 l 0.56073,0 q 3.85782,0 6.54933,2.71393 2.57936,2.57937 2.57936,6.19047 l 0,7.33436 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4192" />
+        <path
+           d="m 476.83637,474.64252 q 3.85783,0 6.54934,2.71393 2.60179,2.6018 2.60179,6.19047 l 0,0.58316 q 0,3.58868 -2.60179,6.19047 -2.69151,2.71393 -6.54934,2.71393 l -0.56073,0 q -3.85783,0 -6.54933,-2.71393 -2.60179,-2.60179 -2.60179,-6.19047 l 0,-0.58316 q 0,-3.58867 2.60179,-6.19047 2.6915,-2.71393 6.54933,-2.71393 l 0.56073,0 z m -0.56073,4.30641 q -1.72705,0 -3.00552,1.25604 -1.36818,1.39061 -1.36818,3.34195 l 0,0.58316 q 0,1.95134 1.36818,3.34196 1.27847,1.25603 3.00552,1.25603 l 0.56073,0 q 1.72705,0 3.00552,-1.25603 1.36818,-1.39062 1.36818,-3.34196 l 0,-0.58316 q 0,-1.95134 -1.36818,-3.34195 -1.27847,-1.25604 -3.00552,-1.25604 l -0.56073,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4194" />
+        <path
+           d="m 503.43744,476.79572 q 0,-0.89717 0.6953,-1.50275 0.69531,-0.62802 1.68219,-0.62802 0.96446,0 1.65977,0.62802 0.6953,0.60558 0.6953,1.50275 l 0,7.33436 q 0,3.61111 -2.57936,6.19047 -2.69151,2.71393 -6.54933,2.71393 l -0.56073,0 q -3.85783,0 -6.54934,-2.71393 -2.60179,-2.60179 -2.60179,-6.19047 l 0,-7.33436 q 0,-0.89717 0.69531,-1.52518 0.6953,-0.62802 1.68219,-0.62802 0.98689,0 1.70462,0.62802 0.69531,0.62801 0.69531,1.52518 l 0,7.33436 q 0,1.95134 1.36818,3.34196 1.27847,1.25603 3.00552,1.25603 l 0.56073,0 q 1.72705,0 3.00551,-1.25603 1.39062,-1.39062 1.39062,-3.34196 l 0,-7.33436 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4196" />
+        <path
+           d="m 517.41084,474.66495 4.3737,0 q 1.00932,0 1.70462,0.62802 0.69531,0.62801 0.69531,1.52518 0,0.89717 -0.69531,1.52519 -0.6953,0.62802 -1.70462,0.62802 l -4.3737,0 0,4.57556 q 0,2.39993 1.3009,3.88026 1.16632,1.34575 3.0728,1.34575 0.96446,0 1.65976,0.58316 0.74017,0.62802 0.74017,1.54762 0,0.94203 -0.74017,1.54761 -0.6953,0.58316 -1.65976,0.58316 -4.21669,0 -6.81849,-2.98308 -2.31021,-2.64665 -2.31021,-6.50448 l 0,-20.81432 q 0,-0.89717 0.69531,-1.52519 0.69531,-0.62802 1.68219,-0.62802 0.98689,0 1.68219,0.62802 0.69531,0.62802 0.69531,1.52519 l 0,11.93235 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4198" />
+        <path
+           d="m 547.89216,474.64252 q 3.85783,0 6.54933,2.71393 2.60179,2.6018 2.60179,6.19047 l 0,0.58316 q 0,3.58868 -2.60179,6.19047 -2.6915,2.71393 -6.54933,2.71393 l -0.56073,0 q -3.85783,0 -6.54934,-2.71393 -2.60179,-2.60179 -2.60179,-6.19047 l 0,-0.58316 q 0,-3.58867 2.60179,-6.19047 2.69151,-2.71393 6.54934,-2.71393 l 0.56073,0 z m -0.56073,4.30641 q -1.72705,0 -3.00552,1.25604 -1.36818,1.39061 -1.36818,3.34195 l 0,0.58316 q 0,1.95134 1.36818,3.34196 1.27847,1.25603 3.00552,1.25603 l 0.56073,0 q 1.72705,0 3.00551,-1.25603 1.36819,-1.39062 1.36819,-3.34196 l 0,-0.58316 q 0,-1.95134 -1.36819,-3.34195 -1.27846,-1.25604 -3.00551,-1.25604 l -0.56073,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4200" />
+        <path
+           d="m 565.14023,474.66495 4.3737,0 q 1.00932,0 1.70463,0.62802 0.6953,0.62801 0.6953,1.52518 0,0.89717 -0.6953,1.52519 -0.69531,0.62802 -1.70463,0.62802 l -4.3737,0 0,11.93235 q 0,0.89717 -0.6953,1.52519 -0.69531,0.60558 -1.68219,0.60558 -0.98689,0 -1.6822,-0.60558 -0.6953,-0.62802 -0.6953,-1.52519 l 0,-21.41991 q 0,-3.61111 2.60179,-6.2129 2.69151,-2.69151 6.5269,-2.69151 1.00932,0 1.70463,0.62802 0.6953,0.62802 0.6953,1.52519 0,0.87474 -0.6953,1.50276 -0.69531,0.62801 -1.70463,0.62801 -1.72705,0 -3.00551,1.27847 -1.36819,1.39061 -1.36819,3.34196 l 0,5.18115 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4202" />
+        <path
+           d="m 586.62742,462.7326 q 0,-0.89717 0.69531,-1.52519 0.6953,-0.62802 1.68219,-0.62802 0.98688,0 1.68219,0.62802 0.69531,0.62802 0.69531,1.52519 l 0,20.81432 q 0,2.39993 1.30089,3.88026 1.16632,1.34575 3.07281,1.34575 0.96445,0 1.65976,0.58316 0.74016,0.62802 0.74016,1.54762 0,0.94203 -0.74016,1.54761 -0.69531,0.58316 -1.65976,0.58316 -4.2167,0 -6.81849,-2.98308 -2.31021,-2.64665 -2.31021,-6.50448 l 0,-20.81432 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4204" />
+        <path
+           d="m 604.03252,483.52449 q 0,2.39993 1.30089,3.88026 1.16632,1.34575 3.09524,1.34575 0.94202,0 1.63733,0.58316 0.74017,0.62802 0.74017,1.54762 0,0.94203 -0.74017,1.54762 -0.69531,0.60558 -1.63733,0.60558 -4.23913,0 -6.84092,-3.00551 -2.31021,-2.62422 -2.31021,-6.50448 l 0,-6.70634 q 0,-0.89717 0.69531,-1.50276 0.6953,-0.62801 1.68219,-0.62801 0.98689,0 1.68219,0.62801 0.69531,0.60559 0.69531,1.50276 l 0,6.70634 z m -2.3775,-20.70218 q 1.18875,0 2.01863,0.82989 0.85231,0.82988 0.85231,2.01863 0,1.18875 -0.85231,2.04106 -0.82988,0.82988 -2.01863,0.82988 -1.18875,0 -2.04106,-0.82988 -0.82988,-0.85231 -0.82988,-2.04106 0,-1.18875 0.82988,-2.01863 0.85231,-0.82989 2.04106,-0.82989 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4206" />
+        <path
+           d="m 625.69916,476.14528 q 0.29158,-0.82989 1.18875,-1.23361 0.87474,-0.40373 1.81677,-0.13458 0.9196,0.26915 1.36818,1.07661 0.44859,0.78502 0.15701,1.6149 l -4.44099,12.17907 q -0.5383,1.50276 -1.79434,2.42236 -1.36818,0.98688 -3.09523,0.96445 -1.74948,0 -3.09524,-0.98688 -1.25603,-0.9196 -1.79433,-2.39993 l -4.39613,-12.17907 q -0.31401,-0.82988 0.13457,-1.6149 0.44859,-0.80746 1.39061,-1.07661 0.94203,-0.26915 1.81677,0.13458 0.87474,0.40372 1.18875,1.23361 l 4.39613,12.17907 q 0.157,0.44858 0.35887,0.44858 0.20186,0 0.35886,-0.44858 l 4.44099,-12.17907 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4208" />
+        <path
+           d="m 643.62012,488.41406 q 0.89716,-0.38129 1.81676,-0.0897 0.9196,0.31401 1.34576,1.12146 0.42615,0.78502 0.0897,1.63733 -0.33644,0.82988 -1.2336,1.21118 -1.74948,0.74016 -4.19427,0.74016 -3.85783,0 -6.54933,-2.71393 -2.6018,-2.60179 -2.6018,-6.19047 l 0,-0.58316 q 0,-3.58867 2.6018,-6.19047 2.6915,-2.71393 6.54933,-2.71393 l 0.56073,0 q 3.85783,0 6.54934,2.71393 2.60179,2.6018 2.60179,6.19047 0,0.89717 -0.69531,1.52519 -0.69531,0.62802 -1.68219,0.62802 l -7.64837,0 q -0.98689,0 -1.68219,-0.62802 -0.69531,-0.62802 -0.69531,-1.52519 0,-0.87474 0.69531,-1.50276 0.6953,-0.62802 1.68219,-0.62802 l 4.755,0 q -0.33644,-0.67287 -0.87474,-1.21117 -1.27847,-1.25604 -3.00552,-1.25604 l -0.56073,0 q -1.72705,0 -3.00552,1.25604 -1.36818,1.39061 -1.36818,3.34195 l 0,0.58316 q 0,1.95134 1.36818,3.34196 1.27847,1.25603 3.00552,1.25603 1.41304,0 2.17564,-0.31401 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4210" />
+        <path
+           d="m 664.70359,474.64252 q 0.98689,0 1.68219,0.62802 0.69531,0.62801 0.69531,1.52518 0,0.89717 -0.69531,1.52519 -0.6953,0.62802 -1.68219,0.62802 l -1.61491,0 q -1.7719,0 -2.33263,0.5383 -0.62802,0.60559 -0.62802,2.44479 l 0,3.81297 q 0,3.49896 -1.92892,5.36058 -1.9962,1.92891 -5.80917,1.92891 l -1.6149,0 q -0.98689,0 -1.68219,-0.62801 -0.69531,-0.62802 -0.69531,-1.52519 0,-0.89717 0.69531,-1.52519 0.6953,-0.62802 1.68219,-0.62802 l 1.6149,0 q 1.77191,0 2.33264,-0.5383 0.62802,-0.60559 0.62802,-2.44478 l 0,-3.81297 q 0,-3.49896 1.92891,-5.36059 1.99621,-1.92891 5.80917,-1.92891 l 1.61491,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4212" />
+        <path
+           d="m 670.06416,462.7326 q 0,-0.89717 0.6953,-1.52519 0.69531,-0.62802 1.6822,-0.62802 0.98688,0 1.68219,0.62802 0.6953,0.62802 0.6953,1.52519 l 0,17.62937 q 0,0.89717 -0.6953,1.52519 -0.69531,0.60559 -1.68219,0.60559 -0.98689,0 -1.6822,-0.60559 -0.6953,-0.62802 -0.6953,-1.52519 l 0,-17.62937 z m 2.64665,24.56 q 1.18875,0 2.01863,0.82988 0.85231,0.82989 0.85231,2.01863 0,1.18875 -0.85231,2.04106 -0.82988,0.82989 -2.01863,0.82989 -1.18875,0 -2.04106,-0.82989 -0.82988,-0.85231 -0.82988,-2.04106 0,-1.18874 0.82988,-2.01863 0.85231,-0.82988 2.04106,-0.82988 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4214" />
+        <path
+           d="m 318.82246,1151.7585 q 0,-0.8972 0.6953,-1.5252 0.69531,-0.628 1.6822,-0.628 0.98688,0 1.68219,0.628 0.6953,0.628 0.6953,1.5252 l 0,28.1711 q 0,0.8972 -0.6953,1.5252 -0.69531,0.6056 -1.68219,0.6056 -0.98689,0 -1.6822,-0.6056 -0.6953,-0.628 -0.6953,-1.5252 l 0,-28.1711 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4216" />
+        <path
+           d="m 359.15021,1179.9296 q 0,0.8972 -0.69531,1.5252 -0.6953,0.6056 -1.68219,0.6056 -0.98688,0 -1.68219,-0.6056 -0.69531,-0.628 -0.69531,-1.5252 l 0,-7.3344 q 0,-1.9513 -1.36818,-3.3419 -1.27847,-1.2561 -3.00552,-1.2561 l -0.58316,0 q -1.72705,0 -3.00551,1.2561 -1.36819,1.3906 -1.36819,3.3419 l 0,7.3344 q 0,0.8972 -0.6953,1.5252 -0.69531,0.6056 -1.68219,0.6056 -0.98689,0 -1.6822,-0.6056 -0.6953,-0.628 -0.6953,-1.5252 l 0,-28.1711 q 0,-0.8972 0.6953,-1.5252 0.69531,-0.628 1.6822,-0.628 0.98688,0 1.68219,0.628 0.6953,0.628 0.6953,1.5252 l 0,13.0314 q 2.04106,-1.0991 4.3737,-1.0991 l 0.58316,0 q 3.8354,0 6.54934,2.714 2.57936,2.5793 2.57936,6.1904 l 0,7.3344 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4218" />
+        <path
+           d="m 372.22645,1163.6684 q 3.85783,0 6.54933,2.7139 2.60179,2.6018 2.60179,6.1905 l 0,0.5832 q 0,3.5886 -2.60179,6.1904 -2.6915,2.714 -6.54933,2.714 l -0.56073,0 q -3.85783,0 -6.54934,-2.714 -2.60179,-2.6018 -2.60179,-6.1904 l 0,-0.5832 q 0,-3.5887 2.60179,-6.1905 2.69151,-2.7139 6.54934,-2.7139 l 0.56073,0 z m -0.56073,4.3064 q -1.72705,0 -3.00552,1.256 -1.36818,1.3907 -1.36818,3.342 l 0,0.5832 q 0,1.9513 1.36818,3.3419 1.27847,1.2561 3.00552,1.2561 l 0.56073,0 q 1.72705,0 3.00551,-1.2561 1.36819,-1.3906 1.36819,-3.3419 l 0,-0.5832 q 0,-1.9513 -1.36819,-3.342 -1.27846,-1.256 -3.00551,-1.256 l -0.56073,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4220" />
+        <path
+           d="m 389.47452,1194.0151 q 0,0.8972 -0.6953,1.5252 -0.69531,0.628 -1.68219,0.628 -0.98689,0 -1.6822,-0.628 -0.6953,-0.628 -0.6953,-1.5252 l 0,-21.4199 q 0,-3.6111 2.60179,-6.1904 2.69151,-2.714 6.5269,-2.714 l 0.58316,0 q 3.8354,0 6.52691,2.714 2.60179,2.6018 2.60179,6.1904 l 0,0.5832 q 0,3.5887 -2.60179,6.1905 -2.69151,2.7139 -6.52691,2.7139 l -0.58316,0 q -0.98688,0 -1.68219,-0.628 -0.6953,-0.628 -0.6953,-1.5252 0,-0.8972 0.6953,-1.5252 0.69531,-0.628 1.68219,-0.628 l 0.58316,0 q 1.72705,0 3.00552,-1.2561 1.36818,-1.3906 1.36818,-3.3419 l 0,-0.5832 q 0,-1.9513 -1.36818,-3.3419 -1.27847,-1.2561 -3.00552,-1.2561 l -0.58316,0 q -1.72705,0 -3.00551,1.2561 -1.36819,1.3906 -1.36819,3.3419 l 0,21.4199 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4222" />
+        <path
+           d="m 417.53349,1177.4399 q 0.89717,-0.3813 1.81677,-0.09 0.9196,0.314 1.34575,1.1215 0.42616,0.785 0.0897,1.6373 -0.33644,0.8299 -1.23361,1.2112 -1.74948,0.7402 -4.19426,0.7402 -3.85783,0 -6.54934,-2.714 -2.60179,-2.6018 -2.60179,-6.1904 l 0,-0.5832 q 0,-3.5887 2.60179,-6.1905 2.69151,-2.7139 6.54934,-2.7139 l 0.56073,0 q 3.85782,0 6.54933,2.7139 2.60179,2.6018 2.60179,6.1905 0,0.8972 -0.6953,1.5252 -0.69531,0.628 -1.6822,0.628 l -7.64836,0 q -0.98689,0 -1.6822,-0.628 -0.6953,-0.628 -0.6953,-1.5252 0,-0.8747 0.6953,-1.5028 0.69531,-0.628 1.6822,-0.628 l 4.75499,0 q -0.33644,-0.6729 -0.87474,-1.2112 -1.27846,-1.256 -3.00551,-1.256 l -0.56073,0 q -1.72705,0 -3.00552,1.256 -1.36818,1.3907 -1.36818,3.342 l 0,0.5832 q 0,1.9513 1.36818,3.3419 1.27847,1.2561 3.00552,1.2561 1.41304,0 2.17563,-0.3141 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4224" />
+        <path
+           d="m 453.64454,1165.844 q 0,-0.8971 0.69531,-1.5027 0.69531,-0.628 1.68219,-0.628 0.96446,0 1.65976,0.628 0.69531,0.6056 0.69531,1.5027 l 0,21.4199 q 0,3.6112 -2.57936,6.2129 -2.69151,2.6915 -6.54933,2.6915 -0.98689,0 -1.6822,-0.628 -0.6953,-0.628 -0.6953,-1.5252 0,-0.8747 0.6953,-1.5027 0.69531,-0.628 1.6822,-0.628 1.72705,0 3.00551,-1.2785 1.39061,-1.3906 1.39061,-3.342 l 0,-6.2801 q -2.06349,1.099 -4.39612,1.099 l -0.56074,0 q -3.85782,0 -6.54933,-2.7139 -2.60179,-2.6018 -2.60179,-6.1905 l 0,-7.3119 q 0,-0.8972 0.69531,-1.5252 0.6953,-0.628 1.68219,-0.628 0.98688,0 1.70462,0.628 0.69531,0.628 0.69531,1.5252 l 0,7.3119 q 0,1.9513 1.36818,3.3419 1.27846,1.2561 3.00551,1.2561 l 0.56074,0 q 1.72705,0 3.00551,-1.2561 1.36818,-1.3681 1.39061,-3.3195 l 0,-7.3568 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4226" />
+        <path
+           d="m 471.45335,1163.6684 q 3.85782,0 6.54933,2.7139 2.60179,2.6018 2.60179,6.1905 l 0,0.5832 q 0,3.5886 -2.60179,6.1904 -2.69151,2.714 -6.54933,2.714 l -0.56073,0 q -3.85783,0 -6.54934,-2.714 -2.60179,-2.6018 -2.60179,-6.1904 l 0,-0.5832 q 0,-3.5887 2.60179,-6.1905 2.69151,-2.7139 6.54934,-2.7139 l 0.56073,0 z m -0.56073,4.3064 q -1.72706,0 -3.00552,1.256 -1.36818,1.3907 -1.36818,3.342 l 0,0.5832 q 0,1.9513 1.36818,3.3419 1.27846,1.2561 3.00552,1.2561 l 0.56073,0 q 1.72705,0 3.00551,-1.2561 1.36819,-1.3906 1.36819,-3.3419 l 0,-0.5832 q 0,-1.9513 -1.36819,-3.342 -1.27846,-1.256 -3.00551,-1.256 l -0.56073,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4228" />
+        <path
+           d="m 498.05441,1165.8216 q 0,-0.8972 0.69531,-1.5028 0.6953,-0.628 1.68219,-0.628 0.96446,0 1.65976,0.628 0.69531,0.6056 0.69531,1.5028 l 0,7.3344 q 0,3.6111 -2.57936,6.1904 -2.69151,2.714 -6.54934,2.714 l -0.56073,0 q -3.85783,0 -6.54933,-2.714 -2.60179,-2.6018 -2.60179,-6.1904 l 0,-7.3344 q 0,-0.8972 0.6953,-1.5252 0.69531,-0.628 1.68219,-0.628 0.98689,0 1.70463,0.628 0.6953,0.628 0.6953,1.5252 l 0,7.3344 q 0,1.9513 1.36818,3.3419 1.27847,1.2561 3.00552,1.2561 l 0.56073,0 q 1.72705,0 3.00552,-1.2561 1.39061,-1.3906 1.39061,-3.3419 l 0,-7.3344 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4230" />
+        <path
+           d="m 507.04854,1151.6239 q 0,-0.8299 0.65045,-1.4355 0.65045,-0.5831 1.59247,-0.5831 0.9196,0 1.57005,0.5831 0.65045,0.6056 0.65045,1.4355 l 0,7.9848 q 0,0.8523 -0.65045,1.4355 -0.65045,0.5607 -1.57005,0.5607 -0.94202,0 -1.59247,-0.5607 -0.65045,-0.5832 -0.65045,-1.4355 l 0,-7.9848 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4232" />
+        <path
+           d="m 528.62545,1165.1712 q 0.29158,-0.8299 1.18875,-1.2337 0.87474,-0.4037 1.81676,-0.1345 0.9196,0.2691 1.36819,1.0766 0.44858,0.785 0.157,1.6149 l -4.44099,12.1791 q -0.5383,1.5027 -1.79433,2.4223 -1.36819,0.9869 -3.09524,0.9645 -1.74948,0 -3.09523,-0.9869 -1.25604,-0.9196 -1.79434,-2.3999 l -4.39613,-12.1791 q -0.31401,-0.8299 0.13458,-1.6149 0.44858,-0.8075 1.39061,-1.0766 0.94203,-0.2692 1.81677,0.1345 0.87474,0.4038 1.18875,1.2337 l 4.39612,12.179 q 0.15701,0.4486 0.35887,0.4486 0.20187,0 0.35887,-0.4486 l 4.44099,-12.179 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4234" />
+        <path
+           d="m 546.5464,1177.4399 q 0.89717,-0.3813 1.81677,-0.09 0.9196,0.314 1.34575,1.1215 0.42616,0.785 0.0897,1.6373 -0.33644,0.8299 -1.23361,1.2112 -1.74948,0.7402 -4.19427,0.7402 -3.85782,0 -6.54933,-2.714 -2.60179,-2.6018 -2.60179,-6.1904 l 0,-0.5832 q 0,-3.5887 2.60179,-6.1905 2.69151,-2.7139 6.54933,-2.7139 l 0.56074,0 q 3.85782,0 6.54933,2.7139 2.60179,2.6018 2.60179,6.1905 0,0.8972 -0.69531,1.5252 -0.6953,0.628 -1.68219,0.628 l -7.64836,0 q -0.98689,0 -1.6822,-0.628 -0.6953,-0.628 -0.6953,-1.5252 0,-0.8747 0.6953,-1.5028 0.69531,-0.628 1.6822,-0.628 l 4.75499,0 q -0.33644,-0.6729 -0.87474,-1.2112 -1.27846,-1.256 -3.00551,-1.256 l -0.56074,0 q -1.72705,0 -3.00551,1.256 -1.36818,1.3907 -1.36818,3.342 l 0,0.5832 q 0,1.9513 1.36818,3.3419 1.27846,1.2561 3.00551,1.2561 1.41305,0 2.17564,-0.3141 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4236" />
+        <path
+           d="m 579.20337,1177.4399 q 0.89717,-0.3813 1.81676,-0.09 0.9196,0.314 1.34576,1.1215 0.42615,0.785 0.0897,1.6373 -0.33644,0.8299 -1.23361,1.2112 -1.74948,0.7402 -4.19427,0.7402 -3.85783,0 -6.54933,-2.714 -2.60179,-2.6018 -2.60179,-6.1904 l 0,-0.5832 q 0,-3.5887 2.60179,-6.1905 2.6915,-2.7139 6.54933,-2.7139 l 0.56073,0 q 3.85783,0 6.54934,2.7139 2.60179,2.6018 2.60179,6.1905 0,0.8972 -0.69531,1.5252 -0.6953,0.628 -1.68219,0.628 l -7.64837,0 q -0.98688,0 -1.68219,-0.628 -0.69531,-0.628 -0.69531,-1.5252 0,-0.8747 0.69531,-1.5028 0.69531,-0.628 1.68219,-0.628 l 4.755,0 q -0.33644,-0.6729 -0.87474,-1.2112 -1.27847,-1.256 -3.00552,-1.256 l -0.56073,0 q -1.72705,0 -3.00551,1.256 -1.36819,1.3907 -1.36819,3.342 l 0,0.5832 q 0,1.9513 1.36819,3.3419 1.27846,1.2561 3.00551,1.2561 1.41304,0 2.17564,-0.3141 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4238" />
+        <path
+           d="m 608.4735,1179.9072 q 0,0.8971 -0.69531,1.5251 -0.6953,0.6056 -1.65976,0.6056 -0.98688,0 -1.68219,-0.6056 -0.69531,-0.628 -0.69531,-1.5251 l 0,-7.3344 q 0,-1.9513 -1.39061,-3.342 -1.27846,-1.256 -3.00551,-1.256 l -0.56074,0 q -1.72705,0 -3.00551,1.256 -1.36819,1.3907 -1.36819,3.342 l 0,7.3344 q 0,0.8971 -0.6953,1.5251 -0.71774,0.6281 -1.70462,0.6281 -0.98689,0 -1.68219,-0.6281 -0.69531,-0.628 -0.69531,-1.5251 l 0,-7.3344 q 0,-3.5887 2.60179,-6.1905 2.69151,-2.7139 6.54933,-2.7139 l 0.56074,0 q 3.85782,0 6.54933,2.7139 2.57936,2.5794 2.57936,6.1905 l 0,7.3344 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4240" />
+        <path
+           d="m 614.03594,1165.844 q 0,-0.8971 0.69531,-1.5027 0.69531,-0.628 1.68219,-0.628 0.98689,0 1.68219,0.628 0.69531,0.6056 0.69531,1.5027 l 0,20.8144 q 0,3.8802 -2.31021,6.5044 -2.60179,3.0055 -6.84091,3.0055 -0.94203,0 -1.63734,-0.6055 -0.74016,-0.6056 -0.74016,-1.5477 0,-0.9196 0.74016,-1.5476 0.69531,-0.5831 1.63734,-0.5831 1.92891,0 3.09523,-1.3458 1.30089,-1.4803 1.30089,-3.8802 l 0,-20.8144 z m 2.3775,-13.9958 q 1.18875,0 2.01863,0.8299 0.82988,0.8299 0.82988,2.0186 0,1.1888 -0.82988,2.0411 -0.82988,0.8298 -2.01863,0.8298 -1.18875,0 -2.04106,-0.8298 -0.82988,-0.8523 -0.82988,-2.0411 0,-1.1887 0.82988,-2.0186 0.85231,-0.8299 2.04106,-0.8299 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4242" />
+        <path
+           d="m 632.58492,1163.6684 q 3.85783,0 6.54934,2.7139 2.60179,2.6018 2.60179,6.1905 l 0,0.5832 q 0,3.5886 -2.60179,6.1904 -2.69151,2.714 -6.54934,2.714 l -0.56073,0 q -3.85783,0 -6.54933,-2.714 -2.60179,-2.6018 -2.60179,-6.1904 l 0,-0.5832 q 0,-3.5887 2.60179,-6.1905 2.6915,-2.7139 6.54933,-2.7139 l 0.56073,0 z m -0.56073,4.3064 q -1.72705,0 -3.00551,1.256 -1.36819,1.3907 -1.36819,3.342 l 0,0.5832 q 0,1.9513 1.36819,3.3419 1.27846,1.2561 3.00551,1.2561 l 0.56073,0 q 1.72705,0 3.00552,-1.2561 1.36818,-1.3906 1.36818,-3.3419 l 0,-0.5832 q 0,-1.9513 -1.36818,-3.342 -1.27847,-1.256 -3.00552,-1.256 l -0.56073,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4244" />
+        <path
+           d="m 659.18597,1165.844 q 0,-0.8971 0.69531,-1.5027 0.6953,-0.628 1.68219,-0.628 0.96446,0 1.65976,0.628 0.69531,0.6056 0.69531,1.5027 l 0,21.4199 q 0,3.6112 -2.57936,6.2129 -2.69151,2.6915 -6.54934,2.6915 -0.98688,0 -1.68219,-0.628 -0.69531,-0.628 -0.69531,-1.5252 0,-0.8747 0.69531,-1.5027 0.69531,-0.628 1.68219,-0.628 1.72705,0 3.00552,-1.2785 1.39061,-1.3906 1.39061,-3.342 l 0,-6.2801 q -2.06349,1.099 -4.39613,1.099 l -0.56073,0 q -3.85783,0 -6.54933,-2.7139 -2.60179,-2.6018 -2.60179,-6.1905 l 0,-7.3119 q 0,-0.8972 0.6953,-1.5252 0.69531,-0.628 1.6822,-0.628 0.98688,0 1.70462,0.628 0.6953,0.628 0.6953,1.5252 l 0,7.3119 q 0,1.9513 1.36819,3.3419 1.27846,1.2561 3.00551,1.2561 l 0.56073,0 q 1.72705,0 3.00552,-1.2561 1.36818,-1.3681 1.39061,-3.3195 l 0,-7.3568 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4246" />
+        <path
+           d="m 678.60971,1177.4399 q 0.89717,-0.3813 1.81677,-0.09 0.91959,0.314 1.34575,1.1215 0.42616,0.785 0.0897,1.6373 -0.33644,0.8299 -1.23361,1.2112 -1.74948,0.7402 -4.19427,0.7402 -3.85782,0 -6.54933,-2.714 -2.60179,-2.6018 -2.60179,-6.1904 l 0,-0.5832 q 0,-3.5887 2.60179,-6.1905 2.69151,-2.7139 6.54933,-2.7139 l 0.56073,0 q 3.85783,0 6.54934,2.7139 2.60179,2.6018 2.60179,6.1905 0,0.8972 -0.69531,1.5252 -0.6953,0.628 -1.68219,0.628 l -7.64837,0 q -0.98688,0 -1.68219,-0.628 -0.6953,-0.628 -0.6953,-1.5252 0,-0.8747 0.6953,-1.5028 0.69531,-0.628 1.68219,-0.628 l 4.755,0 q -0.33644,-0.6729 -0.87474,-1.2112 -1.27847,-1.256 -3.00552,-1.256 l -0.56073,0 q -1.72705,0 -3.00551,1.256 -1.36819,1.3907 -1.36819,3.342 l 0,0.5832 q 0,1.9513 1.36819,3.3419 1.27846,1.2561 3.00551,1.2561 1.41304,0 2.17564,-0.3141 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4248" />
+        <path
+           d="m 702.4744,1151.736 q 0,-0.8971 0.6953,-1.5251 0.69531,-0.6281 1.6822,-0.6281 0.96445,0 1.65976,0.6281 0.69531,0.628 0.69531,1.5251 l 0,21.42 q 0,3.6111 -2.57937,6.1904 -2.6915,2.714 -6.54933,2.714 l -0.56073,0 q -3.85783,0 -6.54934,-2.714 -2.60179,-2.6018 -2.60179,-6.1904 l 0,-0.5832 q 0,-3.5887 2.60179,-6.1905 2.69151,-2.7139 6.54934,-2.7139 l 0.56073,0 q 0.98689,0 1.68219,0.628 0.69531,0.628 0.69531,1.5252 0,0.8972 -0.69531,1.5252 -0.6953,0.628 -1.68219,0.628 l -0.56073,0 q -1.72705,0 -3.00552,1.256 -1.36818,1.3907 -1.36818,3.342 l 0,0.5832 q 0,1.9513 1.36818,3.3419 1.27847,1.2561 3.00552,1.2561 l 0.56073,0 q 1.72705,0 3.00552,-1.2561 1.39061,-1.3906 1.39061,-3.3419 l 0,-21.42 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4250" />
+        <path
+           d="m 728.06614,1163.6908 4.3737,0 q 1.00932,0 1.70463,0.628 0.6953,0.6281 0.6953,1.5252 0,0.8972 -0.6953,1.5252 -0.69531,0.628 -1.70463,0.628 l -4.3737,0 0,4.5756 q 0,2.3999 1.3009,3.8803 1.16632,1.3457 3.0728,1.3457 0.96446,0 1.65977,0.5832 0.74016,0.628 0.74016,1.5476 0,0.942 -0.74016,1.5476 -0.69531,0.5832 -1.65977,0.5832 -4.21669,0 -6.81848,-2.9831 -2.31021,-2.6467 -2.31021,-6.5045 l 0,-20.8143 q 0,-0.8972 0.6953,-1.5252 0.69531,-0.628 1.6822,-0.628 0.98688,0 1.68219,0.628 0.6953,0.628 0.6953,1.5252 l 0,11.9323 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4252" />
+        <path
+           d="m 757.22415,1179.9296 q 0,0.8972 -0.69531,1.5252 -0.6953,0.6056 -1.68219,0.6056 -0.98689,0 -1.68219,-0.6056 -0.69531,-0.628 -0.69531,-1.5252 l 0,-7.3344 q 0,-1.9513 -1.36818,-3.3419 -1.27847,-1.2561 -3.00552,-1.2561 l -0.58316,0 q -1.72705,0 -3.00551,1.2561 -1.36819,1.3906 -1.36819,3.3419 l 0,7.3344 q 0,0.8972 -0.6953,1.5252 -0.69531,0.6056 -1.68219,0.6056 -0.98689,0 -1.6822,-0.6056 -0.6953,-0.628 -0.6953,-1.5252 l 0,-28.1711 q 0,-0.8972 0.6953,-1.5252 0.69531,-0.628 1.6822,-0.628 0.98688,0 1.68219,0.628 0.6953,0.628 0.6953,1.5252 l 0,13.0314 q 2.04106,-1.0991 4.3737,-1.0991 l 0.58316,0 q 3.8354,0 6.54934,2.714 2.57936,2.5793 2.57936,6.1904 l 0,7.3344 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4254" />
+        <path
+           d="m 766.95842,1172.5504 q 0,2.3999 1.3009,3.8802 1.16632,1.3458 3.09523,1.3458 0.94203,0 1.63733,0.5831 0.74017,0.6281 0.74017,1.5477 0,0.942 -0.74017,1.5476 -0.6953,0.6056 -1.63733,0.6056 -4.23912,0 -6.84091,-3.0056 -2.31021,-2.6242 -2.31021,-6.5044 l 0,-6.7064 q 0,-0.8971 0.6953,-1.5027 0.69531,-0.628 1.68219,-0.628 0.98689,0 1.6822,0.628 0.6953,0.6056 0.6953,1.5027 l 0,6.7064 z m -2.3775,-20.7022 q 1.18875,0 2.01863,0.8299 0.85231,0.8299 0.85231,2.0186 0,1.1888 -0.85231,2.0411 -0.82988,0.8298 -2.01863,0.8298 -1.18875,0 -2.04106,-0.8298 -0.82988,-0.8523 -0.82988,-2.0411 0,-1.1887 0.82988,-2.0186 0.85231,-0.8299 2.04106,-0.8299 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4256" />
+        <path
+           d="m 790.30726,1163.6684 q 0.98688,0 1.68219,0.628 0.69531,0.628 0.69531,1.5252 0,0.8972 -0.69531,1.5252 -0.69531,0.628 -1.68219,0.628 l -1.61491,0 q -1.77191,0 -2.33264,0.5383 -0.62802,0.6056 -0.62802,2.4448 l 0,3.813 q 0,3.4989 -1.92891,5.3606 -1.9962,1.9289 -5.80917,1.9289 l -1.6149,0 q -0.98689,0 -1.6822,-0.6281 -0.6953,-0.628 -0.6953,-1.5251 0,-0.8972 0.6953,-1.5252 0.69531,-0.628 1.6822,-0.628 l 1.6149,0 q 1.77191,0 2.33264,-0.5383 0.62802,-0.6056 0.62802,-2.4448 l 0,-3.813 q 0,-3.499 1.92891,-5.3606 1.9962,-1.9289 5.80917,-1.9289 l 1.61491,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4258" />
+        <path
+           d="m 815.60741,1177.8212 q 0.98689,0 1.6822,0.6281 0.6953,0.628 0.6953,1.5251 0,0.8972 -0.6953,1.5252 -0.69531,0.6281 -1.6822,0.6281 l -0.56073,0 q -3.85782,0 -6.54933,-2.714 -2.60179,-2.6018 -2.60179,-6.1905 l 0,-0.5831 q 0,-3.5887 2.60179,-6.1905 2.69151,-2.7139 6.54933,-2.7139 l 0.56073,0 q 3.85783,0 6.54934,2.7139 2.57936,2.5794 2.57936,6.1905 l 0,14.0631 q 0,3.8803 -2.28778,6.5045 -2.60179,3.0055 -6.84092,3.0055 -0.94202,0 -1.63733,-0.6056 -0.74016,-0.6056 -0.74016,-1.5476 0,-0.9196 0.74016,-1.5476 0.69531,-0.5832 1.63733,-0.5832 1.92892,0 3.09524,-1.3457 1.30089,-1.4804 1.30089,-3.8803 l 0,-14.0631 q 0,-1.9514 -1.39061,-3.342 -1.27847,-1.256 -3.00552,-1.256 l -0.56073,0 q -1.72705,0 -3.00551,1.256 -1.36819,1.3906 -1.36819,3.342 l 0,0.5831 q 0,1.9514 1.36819,3.342 1.27846,1.256 3.00551,1.256 l 0.56073,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4260" />
+        <path
+           d="m 846.9859,1179.9072 q 0,0.8971 -0.69531,1.5251 -0.69531,0.6056 -1.65976,0.6056 -0.98689,0 -1.68219,-0.6056 -0.69531,-0.628 -0.69531,-1.5251 l 0,-7.3344 q 0,-1.9513 -1.39061,-3.342 -1.27847,-1.256 -3.00552,-1.256 l -0.56073,0 q -1.72705,0 -3.00552,1.256 -1.36818,1.3907 -1.36818,3.342 l 0,0.5832 q 0,1.9513 1.36818,3.3419 1.27847,1.2561 3.00552,1.2561 l 0.56073,0 q 0.98689,0 1.68219,0.628 0.69531,0.628 0.69531,1.5252 0,0.8971 -0.69531,1.5251 -0.6953,0.6281 -1.68219,0.6281 l -0.56073,0 q -3.85783,0 -6.54933,-2.714 -2.6018,-2.6018 -2.6018,-6.1904 l 0,-0.5832 q 0,-3.5887 2.6018,-6.1905 2.6915,-2.7139 6.54933,-2.7139 l 0.56073,0 q 3.85783,0 6.54933,2.7139 2.57937,2.5794 2.57937,6.1905 l 0,7.3344 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4262" />
+        <path
+           d="m 879.95688,1179.9072 q 0,0.8971 -0.6953,1.5251 -0.69531,0.6056 -1.68219,0.6056 -0.98689,0 -1.6822,-0.6056 -0.6953,-0.628 -0.6953,-1.5251 l 0,-7.3344 q 0,-2.0411 -1.21118,-3.4541 -0.98689,-1.1439 -2.19807,-1.1439 l -0.49344,0 q -1.21118,0 -2.19806,1.1439 -1.21118,1.3906 -1.21118,3.4541 l 0,7.3344 q 0,0.8971 -0.69531,1.5251 -0.6953,0.6281 -1.68219,0.6281 -0.98688,0 -1.68219,-0.6281 -0.69531,-0.628 -0.69531,-1.5251 l 0,-7.3344 q 0,-2.0635 -1.21118,-3.4541 -0.98688,-1.1439 -2.19806,-1.1439 l -0.49344,0 q -1.21118,0 -2.19807,1.1439 -1.21118,1.413 -1.21118,3.4541 l 0,7.3344 q 0,0.8971 -0.6953,1.5251 -0.69531,0.6056 -1.68219,0.6056 -0.98689,0 -1.6822,-0.6056 -0.6953,-0.628 -0.6953,-1.5251 l 0,-7.3344 q 0,-3.5214 2.19806,-6.0783 2.42236,-2.8261 5.96618,-2.8261 l 0.49344,0 q 3.38681,0 5.78674,2.6242 2.3775,-2.6242 5.78674,-2.6242 l 0.49344,0 q 3.54382,0 5.96618,2.8261 2.19806,2.5569 2.19806,6.0783 l 0,7.3344 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4264" />
+        <path
+           d="m 894.64801,1177.4399 q 0.89717,-0.3813 1.81677,-0.09 0.91959,0.314 1.34575,1.1215 0.42615,0.785 0.0897,1.6373 -0.33644,0.8299 -1.23361,1.2112 -1.74948,0.7402 -4.19427,0.7402 -3.85782,0 -6.54933,-2.714 -2.60179,-2.6018 -2.60179,-6.1904 l 0,-0.5832 q 0,-3.5887 2.60179,-6.1905 2.69151,-2.7139 6.54933,-2.7139 l 0.56073,0 q 3.85783,0 6.54934,2.7139 2.60179,2.6018 2.60179,6.1905 0,0.8972 -0.69531,1.5252 -0.6953,0.628 -1.68219,0.628 l -7.64837,0 q -0.98688,0 -1.68219,-0.628 -0.6953,-0.628 -0.6953,-1.5252 0,-0.8747 0.6953,-1.5028 0.69531,-0.628 1.68219,-0.628 l 4.755,0 q -0.33644,-0.6729 -0.87474,-1.2112 -1.27847,-1.256 -3.00552,-1.256 l -0.56073,0 q -1.72705,0 -3.00551,1.256 -1.36819,1.3907 -1.36819,3.342 l 0,0.5832 q 0,1.9513 1.36819,3.3419 1.27846,1.2561 3.00551,1.2561 1.41304,0 2.17564,-0.3141 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4266" />
+        <path
+           d="m 905.7505,1151.7585 q 0,-0.8972 0.6953,-1.5252 0.69531,-0.628 1.6822,-0.628 0.98688,0 1.68219,0.628 0.6953,0.628 0.6953,1.5252 l 0,17.6294 q 0,0.8971 -0.6953,1.5251 -0.69531,0.6056 -1.68219,0.6056 -0.98689,0 -1.6822,-0.6056 -0.6953,-0.628 -0.6953,-1.5251 l 0,-17.6294 z m 2.64665,24.56 q 1.18875,0 2.01863,0.8299 0.85231,0.8298 0.85231,2.0186 0,1.1887 -0.85231,2.0411 -0.82988,0.8298 -2.01863,0.8298 -1.18875,0 -2.04106,-0.8298 -0.82988,-0.8524 -0.82988,-2.0411 0,-1.1888 0.82988,-2.0186 0.85231,-0.8299 2.04106,-0.8299 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4268" />
+        <path
+           d="m 332.10056,1289.0478 q -0.98688,0 -1.68219,-0.628 -0.69531,-0.6281 -0.69531,-1.5252 0,-0.8748 0.69531,-1.5028 0.69531,-0.628 1.68219,-0.628 l 9.10627,0 q 0.98688,0 1.68219,0.628 0.69531,0.628 0.69531,1.5028 0,0.8971 -0.69531,1.5252 -0.69531,0.628 -1.68219,0.628 l -9.10627,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4270" />
+        <path
+           d="m 361.61743,1289.0478 q -0.98689,0 -1.6822,-0.628 -0.6953,-0.6281 -0.6953,-1.5252 0,-0.8748 0.6953,-1.5028 0.69531,-0.628 1.6822,-0.628 l 9.10626,0 q 0.98689,0 1.6822,0.628 0.6953,0.628 0.6953,1.5028 0,0.8971 -0.6953,1.5252 -0.69531,0.628 -1.6822,0.628 l -9.10626,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4272" />
+        <path
+           d="m 391.13429,1289.0478 q -0.98689,0 -1.68219,-0.628 -0.69531,-0.6281 -0.69531,-1.5252 0,-0.8748 0.69531,-1.5028 0.6953,-0.628 1.68219,-0.628 l 9.10626,0 q 0.98689,0 1.6822,0.628 0.6953,0.628 0.6953,1.5028 0,0.8971 -0.6953,1.5252 -0.69531,0.628 -1.6822,0.628 l -9.10626,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4274" />
+        <path
+           d="m 446.69148,1264.4205 q 0.98689,0 1.68219,0.628 0.69531,0.628 0.69531,1.5252 0,0.8747 -0.69531,1.5028 -0.6953,0.628 -1.68219,0.628 l -3.20738,0 q -4.55313,0 -6.41476,1.7943 -1.90648,1.8392 -1.90648,6.3699 l 0,7.5811 q 0,6.1905 -3.20738,9.2857 -3.2971,3.1625 -9.89129,3.1625 l -3.20738,0 q -0.98689,0 -1.68219,-0.628 -0.69531,-0.628 -0.69531,-1.5252 0,-0.8972 0.69531,-1.5252 0.6953,-0.628 1.68219,-0.628 l 3.20738,0 q 4.57556,0 6.41476,-1.7719 1.90648,-1.8392 1.90648,-6.3699 l 0,-7.5811 q 0,-6.1905 3.22981,-9.2857 3.27467,-3.1625 9.86886,-3.1625 l 3.20738,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4276" />
+        <path
+           d="m 446.26533,1308.8528 q 0,0.8972 -0.69531,1.5252 -0.69531,0.628 -1.68219,0.628 -0.98689,0 -1.68219,-0.628 -0.69531,-0.628 -0.69531,-1.5252 l 0,-21.4199 q 0,-3.6111 2.60179,-6.1905 2.69151,-2.7139 6.52691,-2.7139 l 0.58316,0 q 3.83539,0 6.5269,2.7139 2.60179,2.6018 2.60179,6.1905 l 0,0.5831 q 0,3.5887 -2.60179,6.1905 -2.69151,2.7139 -6.5269,2.7139 l -0.58316,0 q -0.98689,0 -1.6822,-0.628 -0.6953,-0.628 -0.6953,-1.5252 0,-0.8971 0.6953,-1.5252 0.69531,-0.628 1.6822,-0.628 l 0.58316,0 q 1.72705,0 3.00551,-1.256 1.36818,-1.3906 1.36818,-3.342 l 0,-0.5831 q 0,-1.9514 -1.36818,-3.342 -1.27846,-1.256 -3.00551,-1.256 l -0.58316,0 q -1.72706,0 -3.00552,1.256 -1.36818,1.3906 -1.36818,3.342 l 0,21.4199 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4278" />
+        <path
+           d="m 481.83808,1294.7448 q 0,0.8972 -0.6953,1.5252 -0.69531,0.6056 -1.65976,0.6056 -0.98689,0 -1.6822,-0.6056 -0.6953,-0.628 -0.6953,-1.5252 l 0,-7.3344 q 0,-1.9513 -1.39061,-3.3419 -1.27847,-1.256 -3.00552,-1.256 l -0.56073,0 q -1.72705,0 -3.00552,1.256 -1.36818,1.3906 -1.36818,3.3419 l 0,0.5832 q 0,1.9513 1.36818,3.342 1.27847,1.256 3.00552,1.256 l 0.56073,0 q 0.98688,0 1.68219,0.628 0.69531,0.628 0.69531,1.5252 0,0.8972 -0.69531,1.5252 -0.69531,0.628 -1.68219,0.628 l -0.56073,0 q -3.85783,0 -6.54934,-2.7139 -2.60179,-2.6018 -2.60179,-6.1905 l 0,-0.5832 q 0,-3.5886 2.60179,-6.1904 2.69151,-2.714 6.54934,-2.714 l 0.56073,0 q 3.85783,0 6.54933,2.714 2.57936,2.5793 2.57936,6.1904 l 0,7.3344 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4280" />
+        <path
+           d="m 496.37223,1278.506 q 0.98689,0 1.68219,0.6281 0.69531,0.628 0.69531,1.5251 0,0.8972 -0.69531,1.5252 -0.6953,0.6281 -1.68219,0.6281 l -1.97377,0 q -1.72705,0 -3.00552,1.256 -1.36818,1.3906 -1.36818,3.3419 l 0,0.5832 q 0,1.9513 1.36818,3.342 1.27847,1.256 3.00552,1.256 l 1.97377,0 q 0.98689,0 1.68219,0.628 0.69531,0.628 0.69531,1.5252 0,0.8972 -0.69531,1.5252 -0.6953,0.628 -1.68219,0.628 l -1.97377,0 q -3.85783,0 -6.54934,-2.7139 -2.60179,-2.6018 -2.60179,-6.1905 l 0,-0.5832 q 0,-3.5886 2.60179,-6.1904 2.69151,-2.714 6.54934,-2.714 l 1.97377,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4282" />
+        <path
+           d="m 513.26143,1292.2776 q 0.89717,-0.3813 1.81676,-0.09 0.9196,0.314 1.34576,1.1214 0.42615,0.7851 0.0897,1.6374 -0.33643,0.8298 -1.2336,1.2111 -1.74948,0.7402 -4.19427,0.7402 -3.85783,0 -6.54933,-2.7139 -2.60179,-2.6018 -2.60179,-6.1905 l 0,-0.5832 q 0,-3.5886 2.60179,-6.1904 2.6915,-2.714 6.54933,-2.714 l 0.56073,0 q 3.85783,0 6.54934,2.714 2.60179,2.6018 2.60179,6.1904 0,0.8972 -0.69531,1.5252 -0.6953,0.6281 -1.68219,0.6281 l -7.64837,0 q -0.98688,0 -1.68219,-0.6281 -0.69531,-0.628 -0.69531,-1.5252 0,-0.8747 0.69531,-1.5027 0.69531,-0.628 1.68219,-0.628 l 4.755,0 q -0.33644,-0.6729 -0.87474,-1.2112 -1.27847,-1.256 -3.00552,-1.256 l -0.56073,0 q -1.72705,0 -3.00551,1.256 -1.36819,1.3906 -1.36819,3.3419 l 0,0.5832 q 0,1.9513 1.36819,3.342 1.27846,1.256 3.00551,1.256 1.41304,0 2.17564,-0.314 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4284" />
+        <path
+           d="m 540.46809,1278.5285 4.3737,0 q 1.00932,0 1.70462,0.628 0.69531,0.628 0.69531,1.5252 0,0.8971 -0.69531,1.5252 -0.6953,0.628 -1.70462,0.628 l -4.3737,0 0,4.5755 q 0,2.4 1.3009,3.8803 1.16632,1.3458 3.0728,1.3458 0.96446,0 1.65976,0.5831 0.74017,0.628 0.74017,1.5476 0,0.9421 -0.74017,1.5477 -0.6953,0.5831 -1.65976,0.5831 -4.21669,0 -6.81848,-2.9831 -2.31021,-2.6466 -2.31021,-6.5045 l 0,-20.8143 q 0,-0.8971 0.6953,-1.5252 0.69531,-0.628 1.68219,-0.628 0.98689,0 1.6822,0.628 0.6953,0.6281 0.6953,1.5252 l 0,11.9324 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4286" />
+        <path
+           d="m 559.37592,1278.506 q 3.85783,0 6.54934,2.714 2.60179,2.6018 2.60179,6.1904 l 0,0.5832 q 0,3.5887 -2.60179,6.1905 -2.69151,2.7139 -6.54934,2.7139 l -0.56073,0 q -3.85782,0 -6.54933,-2.7139 -2.60179,-2.6018 -2.60179,-6.1905 l 0,-0.5832 q 0,-3.5886 2.60179,-6.1904 2.69151,-2.714 6.54933,-2.714 l 0.56073,0 z m -0.56073,4.3065 q -1.72705,0 -3.00551,1.256 -1.36819,1.3906 -1.36819,3.3419 l 0,0.5832 q 0,1.9513 1.36819,3.342 1.27846,1.256 3.00551,1.256 l 0.56073,0 q 1.72705,0 3.00552,-1.256 1.36818,-1.3907 1.36818,-3.342 l 0,-0.5832 q 0,-1.9513 -1.36818,-3.3419 -1.27847,-1.256 -3.00552,-1.256 l -0.56073,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4288" />
+        <path
+           d="m 592.59361,1278.506 q 0.98689,0 1.6822,0.6281 0.6953,0.628 0.6953,1.5251 0,0.8972 -0.6953,1.5252 -0.69531,0.6281 -1.6822,0.6281 -1.72705,0 -3.00551,1.256 -1.36819,1.3906 -1.36819,3.3419 l 0,7.3344 q 0,0.8972 -0.6953,1.5252 -0.71774,0.628 -1.70462,0.628 -0.98689,0 -1.68219,-0.628 -0.69531,-0.628 -0.69531,-1.5252 l 0,-7.3344 q 0,-3.5886 2.60179,-6.1904 2.69151,-2.714 6.54933,-2.714 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4290" />
+        <path
+           d="m 607.82306,1292.2776 q 0.89717,-0.3813 1.81676,-0.09 0.9196,0.314 1.34576,1.1214 0.42615,0.7851 0.0897,1.6374 -0.33643,0.8298 -1.2336,1.2111 -1.74948,0.7402 -4.19427,0.7402 -3.85783,0 -6.54933,-2.7139 -2.60179,-2.6018 -2.60179,-6.1905 l 0,-0.5832 q 0,-3.5886 2.60179,-6.1904 2.6915,-2.714 6.54933,-2.714 l 0.56073,0 q 3.85783,0 6.54934,2.714 2.60179,2.6018 2.60179,6.1904 0,0.8972 -0.69531,1.5252 -0.6953,0.6281 -1.68219,0.6281 l -7.64837,0 q -0.98688,0 -1.68219,-0.6281 -0.69531,-0.628 -0.69531,-1.5252 0,-0.8747 0.69531,-1.5027 0.69531,-0.628 1.68219,-0.628 l 4.755,0 q -0.33644,-0.6729 -0.87474,-1.2112 -1.27847,-1.256 -3.00552,-1.256 l -0.56073,0 q -1.72705,0 -3.00551,1.256 -1.36819,1.3906 -1.36819,3.3419 l 0,0.5832 q 0,1.9513 1.36819,3.342 1.27846,1.256 3.00551,1.256 1.41304,0 2.17564,-0.314 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4292" />
+        <path
+           d="m 623.45622,1278.5285 4.3737,0 q 1.00931,0 1.70462,0.628 0.69531,0.628 0.69531,1.5252 0,0.8971 -0.69531,1.5252 -0.69531,0.628 -1.70462,0.628 l -4.3737,0 0,4.5755 q 0,2.4 1.3009,3.8803 1.16632,1.3458 3.0728,1.3458 0.96446,0 1.65976,0.5831 0.74017,0.628 0.74017,1.5476 0,0.9421 -0.74017,1.5477 -0.6953,0.5831 -1.65976,0.5831 -4.2167,0 -6.81849,-2.9831 -2.31021,-2.6466 -2.31021,-6.5045 l 0,-20.8143 q 0,-0.8971 0.69531,-1.5252 0.69531,-0.628 1.68219,-0.628 0.98689,0 1.68219,0.628 0.69531,0.6281 0.69531,1.5252 l 0,11.9324 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4294" />
+        <path
+           d="m 647.43307,1280.6592 q 0,-0.8971 0.69531,-1.5027 0.6953,-0.628 1.68219,-0.628 0.96446,0 1.65976,0.628 0.69531,0.6056 0.69531,1.5027 l 0,7.3344 q 0,3.6111 -2.57936,6.1905 -2.69151,2.7139 -6.54934,2.7139 l -0.56073,0 q -3.85782,0 -6.54933,-2.7139 -2.60179,-2.6018 -2.60179,-6.1905 l 0,-7.3344 q 0,-0.8971 0.6953,-1.5251 0.69531,-0.6281 1.6822,-0.6281 0.98688,0 1.70462,0.6281 0.6953,0.628 0.6953,1.5251 l 0,7.3344 q 0,1.9513 1.36819,3.342 1.27846,1.256 3.00551,1.256 l 0.56073,0 q 1.72705,0 3.00552,-1.256 1.39061,-1.3907 1.39061,-3.342 l 0,-7.3344 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4296" />
+        <path
+           d="m 665.35402,1278.506 q 0.98689,0 1.68219,0.6281 0.69531,0.628 0.69531,1.5251 0,0.8972 -0.69531,1.5252 -0.6953,0.6281 -1.68219,0.6281 -1.72705,0 -3.00552,1.256 -1.36818,1.3906 -1.36818,3.3419 l 0,7.3344 q 0,0.8972 -0.6953,1.5252 -0.71774,0.628 -1.70463,0.628 -0.98688,0 -1.68219,-0.628 -0.6953,-0.628 -0.6953,-1.5252 l 0,-7.3344 q 0,-3.5886 2.60179,-6.1904 2.6915,-2.714 6.54933,-2.714 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4298" />
+        <path
+           d="m 688.77013,1294.7448 q 0,0.8972 -0.6953,1.5252 -0.69531,0.6056 -1.65977,0.6056 -0.98688,0 -1.68219,-0.6056 -0.69531,-0.628 -0.69531,-1.5252 l 0,-7.3344 q 0,-1.9513 -1.39061,-3.3419 -1.27846,-1.256 -3.00551,-1.256 l -0.56073,0 q -1.72706,0 -3.00552,1.256 -1.36818,1.3906 -1.36818,3.3419 l 0,7.3344 q 0,0.8972 -0.69531,1.5252 -0.71774,0.628 -1.70462,0.628 -0.98689,0 -1.68219,-0.628 -0.69531,-0.628 -0.69531,-1.5252 l 0,-7.3344 q 0,-3.5886 2.60179,-6.1904 2.69151,-2.714 6.54934,-2.714 l 0.56073,0 q 3.85782,0 6.54933,2.714 2.57936,2.5793 2.57936,6.1904 l 0,7.3344 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4300" />
+        <path
+           d="m 709.58446,1278.5285 4.37369,0 q 1.00932,0 1.70463,0.628 0.6953,0.628 0.6953,1.5252 0,0.8971 -0.6953,1.5252 -0.69531,0.628 -1.70463,0.628 l -4.37369,0 0,4.5755 q 0,2.4 1.30089,3.8803 1.16632,1.3458 3.0728,1.3458 0.96446,0 1.65977,0.5831 0.74016,0.628 0.74016,1.5476 0,0.9421 -0.74016,1.5477 -0.69531,0.5831 -1.65977,0.5831 -4.21669,0 -6.81848,-2.9831 -2.31021,-2.6466 -2.31021,-6.5045 l 0,-20.8143 q 0,-0.8971 0.6953,-1.5252 0.69531,-0.628 1.6822,-0.628 0.98688,0 1.68219,0.628 0.69531,0.6281 0.69531,1.5252 l 0,11.9324 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4302" />
+        <path
+           d="m 728.4923,1278.506 q 3.85783,0 6.54934,2.714 2.60179,2.6018 2.60179,6.1904 l 0,0.5832 q 0,3.5887 -2.60179,6.1905 -2.69151,2.7139 -6.54934,2.7139 l -0.56073,0 q -3.85783,0 -6.54933,-2.7139 -2.60179,-2.6018 -2.60179,-6.1905 l 0,-0.5832 q 0,-3.5886 2.60179,-6.1904 2.6915,-2.714 6.54933,-2.714 l 0.56073,0 z m -0.56073,4.3065 q -1.72705,0 -3.00552,1.256 -1.36818,1.3906 -1.36818,3.3419 l 0,0.5832 q 0,1.9513 1.36818,3.342 1.27847,1.256 3.00552,1.256 l 0.56073,0 q 1.72705,0 3.00552,-1.256 1.36818,-1.3907 1.36818,-3.342 l 0,-0.5832 q 0,-1.9513 -1.36818,-3.3419 -1.27847,-1.256 -3.00552,-1.256 l -0.56073,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4304" />
+        <path
+           d="m 781.4477,1294.7448 q 0,0.8972 -0.69531,1.5252 -0.6953,0.6056 -1.68219,0.6056 -0.98689,0 -1.68219,-0.6056 -0.69531,-0.628 -0.69531,-1.5252 l 0,-7.3344 q 0,-2.041 -1.21118,-3.4541 -0.98688,-1.1438 -2.19806,-1.1438 l -0.49344,0 q -1.21118,0 -2.19807,1.1438 -1.21118,1.3907 -1.21118,3.4541 l 0,7.3344 q 0,0.8972 -0.6953,1.5252 -0.69531,0.628 -1.68219,0.628 -0.98689,0 -1.6822,-0.628 -0.6953,-0.628 -0.6953,-1.5252 l 0,-7.3344 q 0,-2.0634 -1.21118,-3.4541 -0.98689,-1.1438 -2.19807,-1.1438 l -0.49344,0 q -1.21118,0 -2.19806,1.1438 -1.21118,1.4131 -1.21118,3.4541 l 0,7.3344 q 0,0.8972 -0.69531,1.5252 -0.6953,0.6056 -1.68219,0.6056 -0.98689,0 -1.68219,-0.6056 -0.69531,-0.628 -0.69531,-1.5252 l 0,-7.3344 q 0,-3.5213 2.19807,-6.0783 2.42235,-2.8261 5.96617,-2.8261 l 0.49344,0 q 3.38682,0 5.78675,2.6243 2.37749,-2.6243 5.78674,-2.6243 l 0.49344,0 q 3.54382,0 5.96617,2.8261 2.19807,2.557 2.19807,6.0783 l 0,7.3344 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4306" />
+        <path
+           d="m 796.13885,1292.2776 q 0.89717,-0.3813 1.81677,-0.09 0.9196,0.314 1.34575,1.1214 0.42616,0.7851 0.0897,1.6374 -0.33644,0.8298 -1.23361,1.2111 -1.74948,0.7402 -4.19426,0.7402 -3.85783,0 -6.54934,-2.7139 -2.60179,-2.6018 -2.60179,-6.1905 l 0,-0.5832 q 0,-3.5886 2.60179,-6.1904 2.69151,-2.714 6.54934,-2.714 l 0.56073,0 q 3.85783,0 6.54933,2.714 2.60179,2.6018 2.60179,6.1904 0,0.8972 -0.6953,1.5252 -0.69531,0.6281 -1.68219,0.6281 l -7.64837,0 q -0.98689,0 -1.68219,-0.6281 -0.69531,-0.628 -0.69531,-1.5252 0,-0.8747 0.69531,-1.5027 0.6953,-0.628 1.68219,-0.628 l 4.75499,0 q -0.33643,-0.6729 -0.87474,-1.2112 -1.27846,-1.256 -3.00551,-1.256 l -0.56073,0 q -1.72705,0 -3.00552,1.256 -1.36818,1.3906 -1.36818,3.3419 l 0,0.5832 q 0,1.9513 1.36818,3.342 1.27847,1.256 3.00552,1.256 1.41304,0 2.17563,-0.314 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4308" />
+        <path
+           d="m 825.40899,1294.7448 q 0,0.8972 -0.69531,1.5252 -0.69531,0.6056 -1.65976,0.6056 -0.98689,0 -1.68219,-0.6056 -0.69531,-0.628 -0.69531,-1.5252 l 0,-7.3344 q 0,-1.9513 -1.39061,-3.3419 -1.27847,-1.256 -3.00552,-1.256 l -0.56073,0 q -1.72705,0 -3.00552,1.256 -1.36818,1.3906 -1.36818,3.3419 l 0,7.3344 q 0,0.8972 -0.69531,1.5252 -0.71773,0.628 -1.70462,0.628 -0.98688,0 -1.68219,-0.628 -0.6953,-0.628 -0.6953,-1.5252 l 0,-7.3344 q 0,-3.5886 2.60179,-6.1904 2.6915,-2.714 6.54933,-2.714 l 0.56073,0 q 3.85783,0 6.54934,2.714 2.57936,2.5793 2.57936,6.1904 l 0,7.3344 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4310" />
+        <path
+           d="m 843.55423,1280.6592 q 0,-0.8971 0.6953,-1.5027 0.69531,-0.628 1.6822,-0.628 0.96445,0 1.65976,0.628 0.6953,0.6056 0.6953,1.5027 l 0,7.3344 q 0,3.6111 -2.57936,6.1905 -2.6915,2.7139 -6.54933,2.7139 l -0.56073,0 q -3.85783,0 -6.54934,-2.7139 -2.60179,-2.6018 -2.60179,-6.1905 l 0,-7.3344 q 0,-0.8971 0.69531,-1.5251 0.6953,-0.6281 1.68219,-0.6281 0.98689,0 1.70462,0.6281 0.69531,0.628 0.69531,1.5251 l 0,7.3344 q 0,1.9513 1.36818,3.342 1.27847,1.256 3.00552,1.256 l 0.56073,0 q 1.72705,0 3.00551,-1.256 1.39062,-1.3907 1.39062,-3.342 l 0,-7.3344 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4312" />
+        <path
+           d="m 866.27507,1289.0478 q -0.98689,0 -1.6822,-0.628 -0.6953,-0.6281 -0.6953,-1.5252 0,-0.8748 0.6953,-1.5028 0.69531,-0.628 1.6822,-0.628 l 9.10626,0 q 0.98689,0 1.68219,0.628 0.69531,0.628 0.69531,1.5028 0,0.8971 -0.69531,1.5252 -0.6953,0.628 -1.68219,0.628 l -9.10626,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4314" />
+        <path
+           d="m 895.79191,1289.0478 q -0.98688,0 -1.68219,-0.628 -0.69531,-0.6281 -0.69531,-1.5252 0,-0.8748 0.69531,-1.5028 0.69531,-0.628 1.68219,-0.628 l 9.10627,0 q 0.98688,0 1.68219,0.628 0.69531,0.628 0.69531,1.5028 0,0.8971 -0.69531,1.5252 -0.69531,0.628 -1.68219,0.628 l -9.10627,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4316" />
+        <path
+           d="m 925.30876,1289.0478 q -0.98689,0 -1.6822,-0.628 -0.6953,-0.6281 -0.6953,-1.5252 0,-0.8748 0.6953,-1.5028 0.69531,-0.628 1.6822,-0.628 l 9.10626,0 q 0.98689,0 1.6822,0.628 0.6953,0.628 0.6953,1.5028 0,0.8971 -0.6953,1.5252 -0.69531,0.628 -1.6822,0.628 l -9.10626,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';fill:#ffffff;fill-opacity:1"
+           id="path4318" />
+      </g>
       <flowRoot
          xml:space="preserve"
          id="flowRoot4256"
@@ -161,24 +354,55 @@
              x="385.71429"
              y="339.59689"
              style="fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
-           id="flowPara4262" /></flowRoot>      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:122.78366089px;line-height:125%;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-         x="631.34674"
-         y="792.55804"
-         id="text4168"
-         sodipodi:linespacing="125%"
-         transform="scale(0.89871692,1.1126974)"><tspan
-           sodipodi:role="line"
-           x="631.34674"
-           y="792.55804"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;"
-           id="tspan4184">Wave :</tspan><tspan
-           sodipodi:role="line"
-           x="631.34674"
-           y="946.0376"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;"
-           id="tspan4186">Score :</tspan></text>
+           id="flowPara4262" /></flowRoot>      <g
+         transform="scale(0.89871692,1.1126974)"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:122.78366089px;line-height:125%;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text4168">
+        <path
+           d="m 304.60311,712.04122 q -0.23981,-2.39812 1.43887,-4.19671 1.73864,-1.79859 4.37657,-2.0384 2.63793,-0.17986 4.61638,1.37892 2.0384,1.49882 2.27821,3.89694 l 6.05525,65.7684 q 0.41967,4.19671 3.0576,4.31661 2.33816,0.06 2.93769,-4.49647 l 6.35502,-50.00077 q 0.77939,-6.05525 4.61638,-9.95219 4.37656,-4.43652 10.91143,-4.43652 6.59483,0 10.85149,4.0768 3.77704,3.65713 4.55642,9.71238 l 6.47492,50.6003 q 0.35972,2.63793 0.71944,3.29741 0.59953,1.19906 2.45807,1.19906 1.73864,-0.0599 2.27821,-1.25901 0.29977,-0.59953 0.53958,-3.0576 l 6.05525,-65.7684 q 0.23981,-2.39812 2.27821,-3.89694 1.97845,-1.55878 4.61638,-1.37892 2.63793,0.23981 4.31661,2.0384 1.73864,1.79859 1.49883,4.19671 l -6.05525,65.7684 q -1.37892,14.74842 -16.0674,14.74842 -13.36951,0 -15.288,-14.56856 l -6.47492,-50.6003 q -0.41967,-3.59718 -2.75784,-3.59718 -2.33816,0 -2.87774,4.19671 l -6.35501,50.00077 q -0.83934,6.41496 -4.73629,10.37186 -4.1967,4.1967 -10.55172,4.1967 -6.65477,0 -11.03134,-4.0768 -4.43652,-4.0768 -5.03605,-10.67162 l -6.05525,-65.7684 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1"
+           id="path4159" />
+        <path
+           d="m 456.2841,786.80256 q 0,2.39812 -1.85854,4.0768 -1.85854,1.61873 -4.43652,1.61873 -2.63793,0 -4.49647,-1.61873 -1.85854,-1.67868 -1.85854,-4.0768 l 0,-19.60462 q 0,-5.2159 -3.71709,-8.93299 -3.41732,-3.35736 -8.03369,-3.35736 l -1.49883,0 q -4.61638,0 -8.0337,3.35736 -3.65713,3.71709 -3.65713,8.93299 l 0,1.55878 q 0,5.21591 3.65713,8.93299 3.41732,3.35737 8.0337,3.35737 l 1.49883,0 q 2.63793,0 4.49647,1.67868 1.85854,1.67868 1.85854,4.0768 0,2.39812 -1.85854,4.0768 -1.85854,1.67868 -4.49647,1.67868 l -1.49883,0 q -10.31191,0 -17.50626,-7.2543 -6.95455,-6.95455 -6.95455,-16.54702 l 0,-1.55878 q 0,-9.59247 6.95455,-16.54701 7.19435,-7.25431 17.50626,-7.25431 l 1.49883,0 q 10.3119,0 17.50626,7.25431 6.89459,6.89459 6.89459,16.54701 l 0,19.60462 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1"
+           id="path4161" />
+        <path
+           d="m 501.48863,747.41347 q 0.77939,-2.21826 3.17751,-3.29742 2.33816,-1.07915 4.85619,-0.35971 2.45807,0.71943 3.65713,2.87774 1.19906,2.09835 0.41967,4.31661 l -11.87069,32.55446 q -1.43887,4.01685 -4.79623,6.47492 -3.65713,2.63793 -8.27351,2.57797 -4.67633,0 -8.27351,-2.63793 -3.35737,-2.45807 -4.79624,-6.41496 l -11.75078,-32.55446 q -0.83934,-2.21826 0.35972,-4.31661 1.19906,-2.15831 3.71708,-2.87774 2.51803,-0.71944 4.85619,0.35971 2.33817,1.07916 3.17751,3.29742 l 11.75078,32.55445 q 0.41967,1.19906 0.95925,1.19906 0.53957,0 0.95924,-1.19906 l 11.87069,-32.55445 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1"
+           id="path4163" />
+        <path
+           d="m 549.39104,780.20773 q 2.39812,-1.0192 4.85619,-0.23981 2.45807,0.83934 3.59718,2.99765 1.13911,2.09835 0.23981,4.37657 -0.89929,2.21826 -3.29741,3.23746 -4.67633,1.97844 -11.2112,1.97844 -10.31191,0 -17.50627,-7.2543 -6.95454,-6.95455 -6.95454,-16.54702 l 0,-1.55878 q 0,-9.59247 6.95454,-16.54701 7.19436,-7.25431 17.50627,-7.25431 l 1.49882,0 q 10.31191,0 17.50626,7.25431 6.95455,6.95454 6.95455,16.54701 0,2.39812 -1.85854,4.0768 -1.85855,1.67869 -4.49648,1.67869 l -20.44396,0 q -2.63793,0 -4.49647,-1.67869 -1.85854,-1.67868 -1.85854,-4.0768 0,-2.33816 1.85854,-4.01685 1.85854,-1.67868 4.49647,-1.67868 l 12.71003,0 q -0.89929,-1.79859 -2.33816,-3.23746 -3.41732,-3.35736 -8.0337,-3.35736 l -1.49882,0 q -4.61638,0 -8.0337,3.35736 -3.65713,3.71709 -3.65713,8.93299 l 0,1.55878 q 0,5.21591 3.65713,8.93299 3.41732,3.35737 8.0337,3.35737 3.77703,0 5.81543,-0.83935 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1"
+           id="path4165" />
+        <path
+           d="m 617.07794,777.21009 q 3.17751,0 5.39577,2.21826 2.27821,2.21826 2.27821,5.39576 0,3.17751 -2.27821,5.45572 -2.21826,2.21826 -5.39577,2.21826 -3.1775,0 -5.45571,-2.21826 -2.21826,-2.27821 -2.21826,-5.45572 0,-3.1775 2.21826,-5.39576 2.27821,-2.21826 5.45571,-2.21826 z m 0,-36.09168 q 3.17751,0 5.39577,2.21825 2.27821,2.21826 2.27821,5.39577 0,3.17751 -2.27821,5.45572 -2.21826,2.21826 -5.39577,2.21826 -3.1775,0 -5.45571,-2.21826 -2.21826,-2.27821 -2.21826,-5.45572 0,-3.17751 2.21826,-5.39577 2.27821,-2.21825 5.45571,-2.21825 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1"
+           id="path4167" />
+        <path
+           d="m 393.75316,859.22574 q 2.63793,0 4.49647,1.67868 1.85855,1.67868 1.85855,4.0768 0,2.33816 -1.85855,4.01685 -1.85854,1.67868 -4.49647,1.67868 l -8.57327,0 q -12.17045,0 -17.14655,4.79624 -5.096,4.91614 -5.096,17.02664 l 0,20.2641 q 0,16.54701 -8.57327,24.82052 -8.81309,8.45337 -26.43926,8.45337 l -8.57327,0 q -2.63793,0 -4.49647,-1.67868 -1.85854,-1.67869 -1.85854,-4.0768 0,-2.39812 1.85854,-4.0768 1.85854,-1.67869 4.49647,-1.67869 l 8.57327,0 q 12.23041,0 17.14655,-4.73628 5.096,-4.91614 5.096,-17.02664 l 0,-20.2641 q 0,-16.54702 8.63323,-24.82053 8.75313,-8.45336 26.3793,-8.45336 l 8.57327,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1"
+           id="path4169" />
+        <path
+           d="m 410.00041,896.87619 q 2.63793,0 4.49647,1.67869 1.85855,1.67868 1.85855,4.0768 0,2.39812 -1.85855,4.0768 -1.85854,1.67868 -4.49647,1.67868 l -5.27586,0 q -4.61638,0 -8.0337,3.35737 -3.65713,3.71708 -3.65713,8.93299 l 0,1.55878 q 0,5.2159 3.65713,8.93299 3.41732,3.35736 8.0337,3.35736 l 5.27586,0 q 2.63793,0 4.49647,1.67869 1.85855,1.67868 1.85855,4.0768 0,2.39811 -1.85855,4.0768 -1.85854,1.67868 -4.49647,1.67868 l -5.27586,0 q -10.31191,0 -17.50626,-7.25431 -6.95455,-6.95454 -6.95455,-16.54701 l 0,-1.55878 q 0,-9.59247 6.95455,-16.54702 7.19435,-7.25431 17.50626,-7.25431 l 5.27586,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1"
+           id="path4171" />
+        <path
+           d="m 450.82838,896.87619 q 10.31191,0 17.50626,7.25431 6.95455,6.95455 6.95455,16.54702 l 0,1.55878 q 0,9.59247 -6.95455,16.54701 -7.19435,7.25431 -17.50626,7.25431 l -1.49883,0 q -10.3119,0 -17.50626,-7.25431 -6.95454,-6.95454 -6.95454,-16.54701 l 0,-1.55878 q 0,-9.59247 6.95454,-16.54702 7.19436,-7.25431 17.50626,-7.25431 l 1.49883,0 z m -1.49883,11.51097 q -4.61637,0 -8.03369,3.35737 -3.65713,3.71708 -3.65713,8.93299 l 0,1.55878 q 0,5.2159 3.65713,8.93299 3.41732,3.35736 8.03369,3.35736 l 1.49883,0 q 4.61638,0 8.03369,-3.35736 3.65714,-3.71709 3.65714,-8.93299 l 0,-1.55878 q 0,-5.21591 -3.65714,-8.93299 -3.41731,-3.35737 -8.03369,-3.35737 l -1.49883,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1"
+           id="path4173" />
+        <path
+           d="m 508.68298,896.87619 q 2.63793,0 4.49648,1.67869 1.85854,1.67868 1.85854,4.0768 0,2.39812 -1.85854,4.0768 -1.85855,1.67868 -4.49648,1.67868 -4.61637,0 -8.03369,3.35737 -3.65713,3.71708 -3.65713,8.93299 l 0,19.60462 q 0,2.39811 -1.85855,4.0768 -1.91849,1.67868 -4.55642,1.67868 -2.63793,0 -4.49647,-1.67868 -1.85854,-1.67869 -1.85854,-4.0768 l 0,-19.60462 q 0,-9.59247 6.95454,-16.54702 7.19435,-7.25431 17.50626,-7.25431 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1"
+           id="path4175" />
+        <path
+           d="m 549.39104,933.68731 q 2.39812,-1.0192 4.85619,-0.23981 2.45807,0.83934 3.59718,2.99765 1.1391,2.09835 0.23981,4.37656 -0.8993,2.21826 -3.29741,3.23746 -4.67634,1.97845 -11.21121,1.97845 -10.31191,0 -17.50626,-7.25431 -6.95455,-6.95454 -6.95455,-16.54701 l 0,-1.55878 q 0,-9.59247 6.95455,-16.54702 7.19435,-7.25431 17.50626,-7.25431 l 1.49883,0 q 10.31191,0 17.50626,7.25431 6.95454,6.95455 6.95454,16.54702 0,2.39812 -1.85854,4.0768 -1.85854,1.67868 -4.49647,1.67868 l -20.44396,0 q -2.63793,0 -4.49647,-1.67868 -1.85854,-1.67868 -1.85854,-4.0768 0,-2.33817 1.85854,-4.01685 1.85854,-1.67868 4.49647,-1.67868 l 12.71003,0 q -0.8993,-1.79859 -2.33817,-3.23746 -3.41732,-3.35737 -8.03369,-3.35737 l -1.49883,0 q -4.61638,0 -8.03369,3.35737 -3.65713,3.71708 -3.65713,8.93299 l 0,1.55878 q 0,5.2159 3.65713,8.93299 3.41731,3.35736 8.03369,3.35736 3.77704,0 5.81544,-0.83934 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1"
+           id="path4177" />
+        <path
+           d="m 617.07794,930.68966 q 3.17751,0 5.39577,2.21826 2.27821,2.21826 2.27821,5.39577 0,3.17751 -2.27821,5.45572 -2.21826,2.21826 -5.39577,2.21826 -3.17751,0 -5.45572,-2.21826 -2.21826,-2.27821 -2.21826,-5.45572 0,-3.17751 2.21826,-5.39577 2.27821,-2.21826 5.45572,-2.21826 z m 0,-36.09168 q 3.17751,0 5.39577,2.21826 2.27821,2.21826 2.27821,5.39577 0,3.1775 -2.27821,5.45572 -2.21826,2.21826 -5.39577,2.21826 -3.17751,0 -5.45572,-2.21826 -2.21826,-2.27822 -2.21826,-5.45572 0,-3.17751 2.21826,-5.39577 2.27821,-2.21826 5.45572,-2.21826 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Quesat Demi Bold Demo';-inkscape-font-specification:'Quesat Demi Bold Demo Semi-Bold';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1"
+           id="path4179" />
+      </g>
     </g>
   </g>
 </svg>

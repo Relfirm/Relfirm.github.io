@@ -17,16 +17,32 @@ html, body {
   border-radius: 20px;
 }
 
-#source {
+.button {
   position: absolute;
   background: #fff;
   width: 300px;
-  height: 88px;
-  margin-top: 200px;
   margin-left: 30px;
   border: 2px solid #000;
   border-radius: 20px;
   z-index: -1;
+}
+
+.button p {
+  font-size: 20px;
+  text-align: center;
+}
+
+.button a {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+#source {
+  height: 88px;
+  margin-top: 200px;
 }
 
 #source img {
@@ -38,13 +54,12 @@ html, body {
 #source p {
   float: right;
   margin: 32px 38px 0 0;
-  font-size: 20px;
 }
 
-#source a {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
+#issues {
+  margin-top: 320px;
+}
+
+#issues p {
+  margin: 20px;
 }
