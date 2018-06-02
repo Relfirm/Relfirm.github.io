@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Contrivance – A Platformer by Relfirm</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="SAT.min.js"></script>
+  </head>
+  <body>
+    <div class="grid">
+      <div class="container" id="title">
+        <h1>Contrivance – A Platformer by Relfirm</h1>
+      </div>
+
+      <div class="container" id="source" onclick="window.open('https://github.com/Relfirm/Relfirm.github.io/tree/master/games/Contrivance');">
+        <p>View source code</p>
+      </div>
+
+      <canvas class="container" id="canvas" width="480px" height="480px">
+        Your browser does not support canvas
+      </canvas>
+
+      <div class="container" id="advertisement">
+        <p>To fix the layout issue</p>
+      </div>
+
+      <div class="container" id="credits">
+        <h2>Credits</h2>
+        <ul>
+          <li>Music: ThunderZone v2 by <span class="contributor">Waterflame</span></li>
+          <li>Font: Cocogoose Narrow by <span class="contributor">Zetafont</span></li>
+          <li>Graphics: Me in Inkscape</li>
+          <li>SAT.js by <span class="contributor">jriecken</span></li>
+          <li>Platformer physics by <span class="contributor">Griffpatch</span> (translated by me)</li>
+        </ul>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script src="tile_info.js"></script>
+    <script src="game.js"></script>
+    <script src="level.js"></script>
+    <script src="background.js"></script>
+    <script src="player.js"></script>
+    <script src="tile.js"></script>
+    <script src="keyinput.js"></script>
+  </body>
+</html>
