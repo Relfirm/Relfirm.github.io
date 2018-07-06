@@ -6,7 +6,7 @@ let game = {
   resetTime: false,
   previousTime: 0,
   level: 1,
-  noLevels: 8,
+  noLevels: 10,
   playing: false,
 
   initLevel: function() {
