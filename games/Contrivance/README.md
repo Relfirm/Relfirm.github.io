@@ -3,7 +3,7 @@
 ## Description
 A platformer game
 
-Currently a work in progress, this project consists of 8 levels with interesting features, including moving enemies, saws and shooters. I hope you enjoy this game!
+Currently a work in progress, this project consists of 10 levels with interesting features, including moving enemies, saws and shooters. I hope you enjoy this game!
 
 ## Instructions
 Play the game here:
