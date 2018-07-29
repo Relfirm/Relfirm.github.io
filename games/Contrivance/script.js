@@ -89,6 +89,9 @@ img.steampunk.src = "img/background/steampunk.svg";
 img.intro = new Image();
 img.intro.src = "img/background/intro.svg";
 
+img.ending = new Image();
+img.ending.src = "img/misc/ending.svg";
+
 img.wip = new Image();
 img.wip.src = "img/misc/wip.svg";
 

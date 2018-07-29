@@ -6,7 +6,7 @@ let game = {
   resetTime: false,
   previousTime: 0,
   level: 1,
-  noLevels: 10,
+  noLevels: 12,
   playing: false,
 
   initLevel: function() {
@@ -132,7 +132,7 @@ let game = {
       player.show();
       game.showLevel();
     } else {
-      ctx.drawImage(img.wip, 0, 0, canvas.width, canvas.height);
+      ctx.drawImage(img.ending, 0, 0, canvas.width, canvas.height);
     }
 
     window.requestAnimationFrame(game.tick);
