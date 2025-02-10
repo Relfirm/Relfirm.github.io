@@ -1,4 +1,5 @@
 let game = {
+  fps: 60,
   scale: 24,
   gravity: 0.2,
   friction: 0.9,
@@ -67,11 +68,15 @@ let game = {
 
     ctx.globalAlpha = 1;
 
-    game.level = 1;
+    game.level = 11;
     game.restart();
 
     audio.playTune(audio.music, true);
-    game.tick();
+
+    setInterval(
+      () => game.tick(performance.now()),
+      1000 / game.fps
+    )
   },
 
   restart: function() {
@@ -88,6 +93,8 @@ let game = {
   },
 
   tick: function(time = 0) {
+    console.log(time)
+
     ctx.clearRect(0, 0, canvas.width, canvas.height);
 
     ctx.fillStyle = "#f2f2f2";
@@ -134,8 +141,5 @@ let game = {
     } else {
       ctx.drawImage(img.ending, 0, 0, canvas.width, canvas.height);
     }
-
-    window.requestAnimationFrame(game.tick);
   }
-
 }

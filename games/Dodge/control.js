@@ -10,8 +10,10 @@ let timer = {
       timer.ram = timer.date.getSeconds();
       timer.time++;
     }
+  },
 
-    window.requestAnimationFrame(timer.tick);
+  startTick: () => {
+    setInterval(timer.tick, 1000 / 60);
   }
 }
 

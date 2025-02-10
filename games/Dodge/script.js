@@ -29,6 +29,9 @@ let enemies = [];
 
 let img = {};
 
+img.thumbnail = new Image();
+img.thumbnail.src = "img/thumbnail.png";
+
 img.player = new Image();
 img.player.src = "img/player/blue.svg";
 
@@ -83,6 +86,8 @@ img.background_1.src = "img/background/tiles.svg";
 img.background_2 = new Image();
 img.background_2.src = "img/background/blue.svg";
 
+let START = false;
+
 window.onload = () => {
   //todo
   console.log("Problems: ");
@@ -92,7 +97,16 @@ window.onload = () => {
   console.log("All in-game objects are top down");
   console.log("Font width is widened by 5%");
 
-  music.init();
-  timer.tick();
-  splash.init();
+  // Wait for user to click on the canvas
+  ctx.drawImage(img.thumbnail, 0, 0, canvas.width, canvas.height);
+
+  canvas.onclick = () => {
+    if (!START) {
+      START = true;
+
+      music.init();
+      timer.startTick();
+      splash.init();
+    }
+  }
 }

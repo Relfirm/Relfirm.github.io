@@ -202,6 +202,8 @@ Shooter = function(x, y, id) {
 Shooter.prototype = Object.create(Entity.prototype);
 
 Shooter.prototype.tick = function() {
+  // console.log(game.time, this.RAMtime + this.interval);
+
   if(game.time > this.RAMtime + this.interval) {
     let bullet = new Bullet(this.x, this.y, s, this.direction)
     tileList.push(bullet);

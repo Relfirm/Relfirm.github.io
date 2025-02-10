@@ -137,7 +137,7 @@ let game = {
     game.wave = 1;
     game.toSpawn = true;
 
-    game.tick();
+    game.startTick();
   },
 
   tick: () => {
@@ -192,8 +192,12 @@ let game = {
 
     mouse.clicked = false;
 
-    if(game.running) {
-      window.requestAnimationFrame(game.tick);
+    if(!game.running) {
+      clearInterval(game.gameLoop);
     }
+  },
+
+  startTick: () => {
+    game.gameLoop = setInterval(game.tick, 1000/60);
   }
 }
