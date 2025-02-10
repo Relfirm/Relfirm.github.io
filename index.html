@@ -1,160 +1,32 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Relfirm Github Pages">
-    <meta name="keywords" content="relfirm, github, bootstrap">
-    <meta name="author" content="Relfirm">
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Relfirm</title>
 
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
-
-    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
-
-    <title>Home | Relfirm</title>
-    <link rel="stylesheet" type="text/css" href="css/main.css">
-  </head>
-  <body id="my-page" data-spy="scroll" data-target=".navbar" data-offset="80">
-    <header>
-      <nav id="my-navbar" class="navbar navbar-expand-lg fixed-top navbar-light bg-light">
-        <a class="navbar-brand" href="index.html"><span class="my-brand">Relfirm</span> | Relfirm.github.io</a>
-
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#my-navbar-collapse">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div id="my-navbar-collapse" class="collapse navbar-collapse justify-content-end">
-          <ul class="navbar-nav">
-            <li class="nav-item">
-              <a class="nav-link" href="#my-home">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#about-me">About Me</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#my-projects">My Projects</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#my-social">Social</a>
-            </li>
-          </ul>
-        </div>
-      </nav>
-    </header>
-
-    <section id="my-home" class="jumbotron">
-      <div class="container-fluid text-center">
-        <img src="img/avatar.png" id="my-logo" class="rounded-circle img-fluid" /><br>
-        <p><q>The sky is filled with stars, invisible by day.</q><br>
-           – Henry Wadsworth Longfellow</p>
-        <a href="#about-me">
-          <img src="img/chevron-down.svg" class="glyphicon" />
-        </a>
-      </div>
-    </section>
-
-    <section id="about-me" class="container-fluid text-center">
-      <h1 class="heading">About Me</h1>
-      <div class="container">
+        <style>
+            body {
+                display: flex;
+                height: 100vh;
+                margin: 0;
+                padding: 0;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+            }
+    
+            p {
+                font-size: 1.5em;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Relfirm</h1>
         <p>
-          Welcome to my Github Pages!<br>
-          I am an amateur programming hobbyist and have been coding for 4 years and counting.
-          I was first introduced to Scratch, but I have expanded my knowledge to Javascript, C# and basic Java.
-          I can also write web-development and understand basic PHP.<br>
-          I encourage you to check out some of my projects below!
+            Legacy site // Active on
+            <a href="https://scratch.mit.edu/users/Relfirm/">Scratch</a>
+            2017-18
         </p>
-      </div>
-    </section>
-
-    <section id="my-projects" class="container-fluid text-center">
-      <h1 class="heading">My Projects</h1>
-      <div class="container">
-        <div id="projects-carousel" class="carousel slide text-center" data-ride="carousel">
-          <ol class="carousel-indicators">
-            <li data-target="#projects-carousel" data-slide-to="0" class="active"></li>
-            <li data-target="#projects-carousel" data-slide-to="1"></li>
-            <li data-target="#projects-carousel" data-slide-to="2"></li>
-          </ol>
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <a href="https://relfirm.github.io/games/Contrivance/" target="_blank">
-                <img src="img/contrivance.svg" />
-              </a>
-              <div class="carousel-caption">
-                <p>A challenging platformer game with a lot of movement</p>
-              </div>
-            </div>
-            <div class="carousel-item">
-              <a href="https://relfirm.github.io/games/Dodge/" target="_blank">
-                <img src="img/dodge.svg" />
-              </a>
-              <div class="carousel-caption">
-                <p>A fast-paced dodging game</p>
-              </div>
-            </div>
-            <div class="carousel-item">
-              <a href="https://scratch.mit.edu/projects/177260519/" target="_blank">
-                <img src="img/parallax.svg" />
-              </a>
-              <div class="carousel-caption">
-                <p>A platformer game with a unique twist, built on Scratch</p>
-              </div>
-            </div>
-          </div>
-          <a class="carousel-control-prev" href="#projects-carousel" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon"></span>
-          </a>
-          <a class="carousel-control-next" href="#projects-carousel" role="button" data-slide="next">
-            <span class="carousel-control-next-icon"></span>
-          </a>
-        </div>
-      </div>
-    </section>
-
-    <section id="my-social" class="container-fluid text-center">
-      <h1 class="heading">Social</h1>
-      <div class="container">
-        <p>Find me on Github, Scratch and Youtube!</p>
-        <div class="row align-items-center justify-content-center">
-          <div class="col col-12 col-md-4 col-lg-3">
-            <img src="img/github.png" class="site-logo" />
-          </div>
-          <div class="col col-12 col-md-4 col-lg-3">
-            <a href="https://github.com/Relfirm" target="_blank">My Github profile</a>
-          </div>
-        </div>
-        <div class="row align-items-center justify-content-center">
-          <div class="col col-12 col-md-4 col-lg-3">
-            <img src="img/scratch.png" class="site-logo" />
-          </div>
-          <div class="col col-12 col-md-4 col-lg-3">
-            <a href="https://scratch.mit.edu/users/Relfirm/" target="_blank">My Scratch page</a>
-          </div>
-        </div>
-        <div class="row align-items-center justify-content-center">
-          <div class="col col-12 col-md-4 col-lg-3">
-            <img src="img/youtube.png" class="site-logo" />
-          </div>
-          <div class="col col-12 col-md-4 col-lg-3">
-            <a href="https://www.youtube.com/channel/UCNd1YJBNJscL7YqPXjTjeQA" target="_blank">My Youtube channel</a>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <footer class="container-fluid text-center">
-      <div class="container">
-        <a href="#my-home">
-          <img src="img/chevron-up.svg" class="glyphicon" />
-        </a>
-        <p>Back to top</p>
-      </div>
-    </footer>
-
-    <script src="js/script.js"></script>
-
-  </body>
+    </body>
 </html>

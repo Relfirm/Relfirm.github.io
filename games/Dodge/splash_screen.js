@@ -29,7 +29,7 @@ let splash = {
     splash.y = -100;
     splash.startTime = 0;
 
-    splash.tick();
+    splash.startTick();
   },
 
   tick: () => {
@@ -42,9 +42,12 @@ let splash = {
     ctx.drawImage(img.splash_screen, splash.x, 0 - splash.y);
 
     if(splash.alpha < -1) {
+      clearInterval(splash.splashLoop);
       menu.init(true);
-    } else {
-      window.requestAnimationFrame(splash.tick);
     }
+  },
+
+  startTick: () => {
+    splash.splashLoop = setInterval(splash.tick, 1000/60);
   }
 }

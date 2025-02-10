@@ -72,7 +72,7 @@ let menu = {
     menu.running = true;
 
     if(tick) {
-      menu.tick();
+      menu.startTick();
     }
   },
 
@@ -132,9 +132,13 @@ let menu = {
 
     mouse.clicked = false;
 
-    if(menu.running) {
-      window.requestAnimationFrame(menu.tick);
+    if(!menu.running) {
+      clearInterval(menu.menuLoop);
     }
+  },
+
+  startTick: () => {
+    menu.menuLoop = setInterval(menu.tick, 1000/60);
   }
 
 }
