@@ -68,7 +68,7 @@ let game = {
 
     ctx.globalAlpha = 1;
 
-    game.level = 11;
+    game.level = 1;
     game.restart();
 
     audio.playTune(audio.music, true);
