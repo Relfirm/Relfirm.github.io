@@ -93,8 +93,6 @@ let game = {
   },
 
   tick: function(time = 0) {
-    console.log(time)
-
     ctx.clearRect(0, 0, canvas.width, canvas.height);
 
     ctx.fillStyle = "#f2f2f2";
